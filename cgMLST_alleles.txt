@@ -1,0 +1,2557 @@
+Scheme name	Locus tag	Description
+cgMLST V1 + HierCC V1	CD196_RS15035(-)	Protein of uncharacterised function (DUF434)
+cgMLST V1 + HierCC V1	CD196_RS16835(fdoG)	spermidine/putrescine ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_00010(dnaA)	chromosomal replication initiation protein DnaA
+cgMLST V1 + HierCC V1	CD630_00020(dnaN)	DNA polymerase III subunit beta
+cgMLST V1 + HierCC V1	CD630_00030(ybcJ)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_00040(recF)	DNA recombination protein RecF
+cgMLST V1 + HierCC V1	CD630_00050(gyrB)	DNA gyrase subunit B
+cgMLST V1 + HierCC V1	CD630_00060(gyrA)	DNA gyrase subunit A
+cgMLST V1 + HierCC V1	CD630_00070(-)	ytxH-like family protein
+cgMLST V1 + HierCC V1	CD630_00080(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_00090(rsbV)	anti-sigma factor antagonist
+cgMLST V1 + HierCC V1	CD630_00100(rsbW)	histidine kinase
+cgMLST V1 + HierCC V1	CD630_00110(sigB)	RNA polymerase sigma-B factor
+cgMLST V1 + HierCC V1	CD630_00120(-)	HTH domain protein
+cgMLST V1 + HierCC V1	CD630_00130(mscS)	mechanosensitive ion channel protein
+cgMLST V1 + HierCC V1	CD630_00140(serS1)	serine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_00150(tadA)	tRNA-specific adenosine deaminase
+cgMLST V1 + HierCC V1	CD630_00160(dnaX)	DNA polymerase III subunit gamma/tau
+cgMLST V1 + HierCC V1	CD630_00170(-)	nucleoid-associated protein
+cgMLST V1 + HierCC V1	CD630_00180(recR)	recombination protein RecR
+cgMLST V1 + HierCC V1	CD630_00181(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_00190(ugtP)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_00200(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_00210(pycA)	pyruvate carboxylase
+cgMLST V1 + HierCC V1	CD630_00220(fusA1)	elongation factor G
+cgMLST V1 + HierCC V1	CD630_00230(ctsR)	"Transcriptional regulator, CtsR family"
+cgMLST V1 + HierCC V1	CD630_00240(mcsA)	DNA methylase
+cgMLST V1 + HierCC V1	CD630_00250(mcsB)	protein arginine kinase
+cgMLST V1 + HierCC V1	CD630_00260(clpC)	negative regulator of genetic competence ClpC/MecB
+cgMLST V1 + HierCC V1	CD630_00270(radA)	DNA repair protein RadA
+cgMLST V1 + HierCC V1	CD630_00280(disA)	helix-hairpin-helix motif family protein
+cgMLST V1 + HierCC V1	CD630_00290(-)	twitching motility protein PilT
+cgMLST V1 + HierCC V1	CD630_00300(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_00350(deoR)	Crp/Fnr family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_00360(acoA)	"acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha"
+cgMLST V1 + HierCC V1	CD630_00370(acoB)	transketolase
+cgMLST V1 + HierCC V1	CD630_00380(acoC)	2-oxoacid dehydrogenase acyltransferase
+cgMLST V1 + HierCC V1	CD630_00390(acoL)	acetoin dehydrogenase E3 component (dihydrolipoamide dehydrogenase)
+cgMLST V1 + HierCC V1	CD630_00400(-)	sigma-54 interaction domain protein
+cgMLST V1 + HierCC V1	CD630_00410(gatA)	PTS galactitol transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_00420(gatB)	PTS Lactose/Cellobiose specific IIB subunit
+cgMLST V1 + HierCC V1	CD630_00430(gatC)	PTS galactitol transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_00440(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_00450(fucA)	L-ribulose-5-phosphate 4-epimerase
+cgMLST V1 + HierCC V1	CD630_00460(lplA)	lipoate--protein ligase A
+cgMLST V1 + HierCC V1	CD630_00470(ispD)	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+cgMLST V1 + HierCC V1	CD630_00480(ispF)	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+cgMLST V1 + HierCC V1	CD630_00490(proS)	proline--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_00500(proS)	Proline--tRNA ligase 2
+cgMLST V1 + HierCC V1	CD630_00510(gltX)	glutamate--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_00511(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_00520(cysS)	cysteine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_00530(mrnC)	RNase3 domain protein
+cgMLST V1 + HierCC V1	CD630_00550(rlmB)	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB
+cgMLST V1 + HierCC V1	CD630_00560(-)	ribonuclease
+cgMLST V1 + HierCC V1	CD630_00570(sigH)	RNA polymerase factor sigma-70
+cgMLST V1 + HierCC V1	CD630_00581(rpmG)	50S ribosomal protein L33
+cgMLST V1 + HierCC V1	CD630_00590(secE)	preprotein translocase subunit SecE
+cgMLST V1 + HierCC V1	CD630_00600(nusG)	transcription termination/antitermination protein NusG
+cgMLST V1 + HierCC V1	CD630_00610(rplK)	50S ribosomal protein L11
+cgMLST V1 + HierCC V1	CD630_00620(rplA)	50S ribosomal protein L1
+cgMLST V1 + HierCC V1	CD630_00630(rplJ)	50S ribosomal protein L10
+cgMLST V1 + HierCC V1	CD630_00640(rplL)	50S ribosomal protein L7/L12
+cgMLST V1 + HierCC V1	CD630_00650(fabG)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_00660(rpoB)	DNA-directed RNA polymerase subunit beta
+cgMLST V1 + HierCC V1	CD630_00670(rpoC)	DNA-directed RNA polymerase subunit beta'
+cgMLST V1 + HierCC V1	CD630_00680(rpsL)	30S ribosomal protein S12
+cgMLST V1 + HierCC V1	CD630_00690(rpsG)	30S ribosomal protein S7
+cgMLST V1 + HierCC V1	CD630_00700(fusA)	elongation factor G
+cgMLST V1 + HierCC V1	CD630_00720(rpsJ)	30S ribosomal protein S10
+cgMLST V1 + HierCC V1	CD630_00730(rplC)	50S ribosomal protein L3
+cgMLST V1 + HierCC V1	CD630_00740(rplD)	50S ribosomal protein L4
+cgMLST V1 + HierCC V1	CD630_00750(rplW)	50S ribosomal protein L23
+cgMLST V1 + HierCC V1	CD630_00760(rplB)	50S ribosomal protein L2
+cgMLST V1 + HierCC V1	CD630_00770(rpsS)	30S ribosomal protein S19
+cgMLST V1 + HierCC V1	CD630_00780(rplV)	50S ribosomal protein L22
+cgMLST V1 + HierCC V1	CD630_00790(rpsC)	30S ribosomal protein S3
+cgMLST V1 + HierCC V1	CD630_00800(rplP)	50S ribosomal protein L16
+cgMLST V1 + HierCC V1	CD630_00801(rpmC)	50S ribosomal protein L29
+cgMLST V1 + HierCC V1	CD630_00810(rpsQ)	30S ribosomal protein S17
+cgMLST V1 + HierCC V1	CD630_00820(rplN)	50S ribosomal protein L14
+cgMLST V1 + HierCC V1	CD630_00830(rplX)	50S ribosomal protein L24
+cgMLST V1 + HierCC V1	CD630_00840(rplE)	50S ribosomal protein L5
+cgMLST V1 + HierCC V1	CD630_00841(rpsZ)	30S ribosomal protein S14 type Z
+cgMLST V1 + HierCC V1	CD630_00850(rpsH)	30S ribosomal protein S8
+cgMLST V1 + HierCC V1	CD630_00860(rplF)	50S ribosomal protein L6
+cgMLST V1 + HierCC V1	CD630_00870(rplR)	50S ribosomal protein L18
+cgMLST V1 + HierCC V1	CD630_00880(rpsE)	30S ribosomal protein S5
+cgMLST V1 + HierCC V1	CD630_00881(rpmD)	50S ribosomal protein L30
+cgMLST V1 + HierCC V1	CD630_00890(rplO)	50S ribosomal protein L15
+cgMLST V1 + HierCC V1	CD630_00900(prlA)	preprotein translocase subunit SecY
+cgMLST V1 + HierCC V1	CD630_00910(adk)	adenylate kinase
+cgMLST V1 + HierCC V1	CD630_00920(map1)	type I methionyl aminopeptidase
+cgMLST V1 + HierCC V1	CD630_00930(-)	50S ribosomal protein L14
+cgMLST V1 + HierCC V1	CD630_00940(infA)	translation initiation factor IF-1
+cgMLST V1 + HierCC V1	CD630_00941(rpmJ)	50S ribosomal protein L36
+cgMLST V1 + HierCC V1	CD630_00950(rpsM)	30S ribosomal protein S13
+cgMLST V1 + HierCC V1	CD630_00960(rpsK)	30S ribosomal protein S11
+cgMLST V1 + HierCC V1	CD630_00970(rpsD)	30S ribosomal protein S4
+cgMLST V1 + HierCC V1	CD630_00980(rpoA)	DNA-directed RNA polymerase subunit alpha
+cgMLST V1 + HierCC V1	CD630_00990(rplQ)	50S ribosomal protein L17
+cgMLST V1 + HierCC V1	CD630_01000(cbiO1)	energy-coupling factor transporter ATPase
+cgMLST V1 + HierCC V1	CD630_01010(cbiO2)	energy-coupling factor transporter ATPase
+cgMLST V1 + HierCC V1	CD630_01020(cbiQ)	transporter
+cgMLST V1 + HierCC V1	CD630_01030(truA1)	tRNA pseudouridine synthase A
+cgMLST V1 + HierCC V1	CD630_01040(rplM)	50S ribosomal protein L13
+cgMLST V1 + HierCC V1	CD630_01050(rpsI)	30S ribosomal protein S9
+cgMLST V1 + HierCC V1	CD630_01060(cwlD)	N-acetylmuramoyl-L-alanine amidase CwlD
+cgMLST V1 + HierCC V1	CD630_01070(aspC)	aspartate aminotransferase
+cgMLST V1 + HierCC V1	CD630_01080(nrdD)	anaerobic ribonucleoside triphosphate reductase
+cgMLST V1 + HierCC V1	CD630_01090(nrdG)	anaerobic ribonucleoside-triphosphate reductase activating protein
+cgMLST V1 + HierCC V1	CD630_01100(dacA)	membrane protein
+cgMLST V1 + HierCC V1	CD630_01110(-)	ybbR-like family protein
+cgMLST V1 + HierCC V1	CD630_01111(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_01120(ptb)	phosphate butyryltransferase
+cgMLST V1 + HierCC V1	CD630_01130(buk)	butyrate kinase
+cgMLST V1 + HierCC V1	CD630_01140(-)	ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_01150(korD)	2-oxoacid:acceptor oxidoreductase subunit delta
+cgMLST V1 + HierCC V1	CD630_01160(korA)	3-methyl-2-oxobutanoate dehydrogenase subunit VorB
+cgMLST V1 + HierCC V1	CD630_01170(korB)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_01180(korC)	2-oxoglutarate ferredoxin oxidoreductase subunit gamma
+cgMLST V1 + HierCC V1	CD630_01190(glmM)	phosphoglucosamine mutase
+cgMLST V1 + HierCC V1	CD630_01200(glmS)	glutamine--fructose-6-phosphate aminotransferase
+cgMLST V1 + HierCC V1	CD630_01210(ynjE)	thiosulfate sulfurtransferase
+cgMLST V1 + HierCC V1	CD630_01220(-)	exported protein
+cgMLST V1 + HierCC V1	CD630_01230(murA)	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+cgMLST V1 + HierCC V1	CD630_01240(spoIIC)	stage II sporulation protein D
+cgMLST V1 + HierCC V1	CD630_01250(-)	peptidase M23
+cgMLST V1 + HierCC V1	CD630_01260(spoIIID)	sporulation transcriptional regulator SpoIIID
+cgMLST V1 + HierCC V1	CD630_01270(mreB1)	rod shape-determining protein
+cgMLST V1 + HierCC V1	CD630_01280(fabZ)	beta-hydroxyacyl-ACP dehydratase
+cgMLST V1 + HierCC V1	CD630_01290(-)	spore protease YyaC
+cgMLST V1 + HierCC V1	CD630_01300(metK)	S-adenosylmethionine synthase
+cgMLST V1 + HierCC V1	CD630_01310(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_01320(recD)	viral (Super1) RNA helicase
+cgMLST V1 + HierCC V1	CD630_01330(comFC)	phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_01340(manR)	"transcription antiterminator, PTS operon regulator"
+cgMLST V1 + HierCC V1	CD630_01350(celC)	PTS mannose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_01360(celA)	PTS sugar transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_01370(celB)	PTS cellobiose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_01380(-)	proline reductase
+cgMLST V1 + HierCC V1	CD630_01390(aspG)	N(4)-(beta-N-acetylglucosaminyl)-L-asparaginase
+cgMLST V1 + HierCC V1	CD630_01400(dapE)	dipeptidase
+cgMLST V1 + HierCC V1	CD630_01410(cutC)	copper homeostasis protein CutC
+cgMLST V1 + HierCC V1	CD630_01420(yhbH)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_01430(secA1)	protein translocase subunit SecA 1
+cgMLST V1 + HierCC V1	CD630_01440(prfB)	peptide chain release factor 2
+cgMLST V1 + HierCC V1	CD630_01450(tex)	Tex-like protein N-terminal domain protein
+cgMLST V1 + HierCC V1	CD630_01460(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_01470(-)	5TMR of 5TMR-LYT family protein
+cgMLST V1 + HierCC V1	CD630_01480(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_01490(tsaE)	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+cgMLST V1 + HierCC V1	CD630_01500(tsaB)	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+cgMLST V1 + HierCC V1	CD630_01520(gcp)	tRNA N6-adenosine(37)-threonylcarbamoyltransferase complex transferase subunit TsaD
+cgMLST V1 + HierCC V1	CD630_01530(hpdB)	4-hydroxyphenylacetate decarboxylase large subunit
+cgMLST V1 + HierCC V1	CD630_01540(hpdC)	4-hydroxyphenylacetate decarboxylase small subunit
+cgMLST V1 + HierCC V1	CD630_01550(pflA)	4-hydroxyphenylacetate decarboxylase activating enzyme
+cgMLST V1 + HierCC V1	CD630_01590(-)	glyoxalase/Bleomycin resistance /Dioxygenase superfamily protein
+cgMLST V1 + HierCC V1	CD630_01680(-)	cyclic nucleotide-binding domain protein
+cgMLST V1 + HierCC V1	CD630_01690(-)	MATE family efflux transporter
+cgMLST V1 + HierCC V1	CD630_01700(-)	"heme ABC exporter, ATP-binding protein CcmA"
+cgMLST V1 + HierCC V1	CD630_01710(rex)	redox-sensing transcriptional repressor Rex
+cgMLST V1 + HierCC V1	CD630_01720(fwdE)	prokaryotic dksA/traR C4-type zinc finger family protein
+cgMLST V1 + HierCC V1	CD630_01721(fdxA)	ferredoxin
+cgMLST V1 + HierCC V1	CD630_01730(pgsA)	capsule biosynthesis protein
+cgMLST V1 + HierCC V1	CD630_01740(cooS)	carbon-monoxide dehydrogenase catalytic subunit
+cgMLST V1 + HierCC V1	CD630_01750(cooF)	nitrate reductase subunit beta
+cgMLST V1 + HierCC V1	CD630_01760(-)	"putative nitrate reductase, NADH oxidase subunit"
+cgMLST V1 + HierCC V1	CD630_01770(cfa)	cyclopropane-fatty-acyl-phospholipid synthase
+cgMLST V1 + HierCC V1	CD630_01790(gluD)	NAD-specific glutamate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_01830(-)	cell wall hydrolase
+cgMLST V1 + HierCC V1	CD630_01840(pyrB)	aspartate carbamoyltransferase
+cgMLST V1 + HierCC V1	CD630_01850(pyrK)	dihydroorotate dehydrogenase electron transfer subunit
+cgMLST V1 + HierCC V1	CD630_01860(pyrD)	dihydroorotate dehydrogenase B catalytic subunit
+cgMLST V1 + HierCC V1	CD630_01870(pyrE)	orotate phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_01880(panE)	2-dehydropantoate 2-reductase
+cgMLST V1 + HierCC V1	CD630_01890(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_01900(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_01910(-)	8-oxoguanine DNA glycosylase
+cgMLST V1 + HierCC V1	CD630_01920(cls)	cardiolipin synthase
+cgMLST V1 + HierCC V1	CD630_01930(groES)	molecular chaperone GroES
+cgMLST V1 + HierCC V1	CD630_01940(groEL)	molecular chaperone GroEL
+cgMLST V1 + HierCC V1	CD630_01950(-)	1-(5-phosphoribosyl)-5-amino-4-imidazole-carboxylate carboxylase
+cgMLST V1 + HierCC V1	CD630_01980(guaA)	GMP synthetase
+cgMLST V1 + HierCC V1	CD630_02010(chrA)	chromate transporter family protein
+cgMLST V1 + HierCC V1	CD630_02050(manR)	PRD domain protein
+cgMLST V1 + HierCC V1	CD630_02060(fruB)	PTS fructose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_02070(-)	PTS fructose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_02080(fruA)	PTS fructose transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_02090(-)	sugar-phosphate kinase
+cgMLST V1 + HierCC V1	CD630_02100(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_02130(-)	spore coat protein
+cgMLST V1 + HierCC V1	CD630_02180(purE)	5-(carboxyamino)imidazole ribonucleotide mutase
+cgMLST V1 + HierCC V1	CD630_02190(purC)	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+cgMLST V1 + HierCC V1	CD630_02200(purF)	amidophosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_02210(purG)	phosphoribosylformylglycinamidine cyclo-ligase
+cgMLST V1 + HierCC V1	CD630_02220(purN)	phosphoribosylglycinamide formyltransferase
+cgMLST V1 + HierCC V1	CD630_02230(purH)	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/inosine monophosphate cyclohydrolase
+cgMLST V1 + HierCC V1	CD630_02240(purD)	phosphoribosylamine--glycine ligase
+cgMLST V1 + HierCC V1	CD630_02250(purL)	phosphoribosylformylglycinamidine synthase
+cgMLST V1 + HierCC V1	CD630_02260(-)	transglycosylase SLT domain protein
+cgMLST V1 + HierCC V1	CD630_02270(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_02280(fliN)	flagellar motor switch protein FliN
+cgMLST V1 + HierCC V1	CD630_02290(flgM)	Negative regulator of flagellin synthesis (anti-sigma-d factor)
+cgMLST V1 + HierCC V1	CD630_02300(-)	FlgN family protein
+cgMLST V1 + HierCC V1	CD630_02310(flgK)	flagellar basal body rod protein subunit C
+cgMLST V1 + HierCC V1	CD630_02730(htpG)	molecular chaperone HtpG
+cgMLST V1 + HierCC V1	CD630_02750(splB)	spore photoproduct lyase
+cgMLST V1 + HierCC V1	CD630_02760(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_02770(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_02780(-)	"transcriptional regulator, HxlR family"
+cgMLST V1 + HierCC V1	CD630_02790(-)	pyridoxamine 5'-phosphate oxidase
+cgMLST V1 + HierCC V1	CD630_02791(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_02820(ycdX)	phosphatase
+cgMLST V1 + HierCC V1	CD630_02830(-)	transcriptional antiterminator
+cgMLST V1 + HierCC V1	CD630_02840(manX)	PTS mannose transporter subunit IIAB
+cgMLST V1 + HierCC V1	CD630_02850(manX)	PTS mannose transporter subunit IID
+cgMLST V1 + HierCC V1	CD630_02860(dgaA)	PTS mannose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_02870(dgaB)	PTS sugar transporter
+cgMLST V1 + HierCC V1	CD630_02880(dgaC)	PTS sorbose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_02900(-)	L-2-amino-thiazoline-4-carboxylic acid hydrolase
+cgMLST V1 + HierCC V1	CD630_02910(dapE)	peptidase
+cgMLST V1 + HierCC V1	CD630_02921(-)	phospholipase D/nuclease
+cgMLST V1 + HierCC V1	CD630_02930(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_02940(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_02950(-)	4Fe-4S ferredoxin
+cgMLST V1 + HierCC V1	CD630_02960(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_02970(bioB)	biotin synthase BioB
+cgMLST V1 + HierCC V1	CD630_02980(rbsR)	LacI family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_02990(rbsK)	ribokinase
+cgMLST V1 + HierCC V1	CD630_03000(rbsB)	ribose ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_03010(rbsA)	ribose ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_03020(rbsC)	ribose ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_03030(argE)	peptidase
+cgMLST V1 + HierCC V1	CD630_03040(-)	cytoplasmic protein
+cgMLST V1 + HierCC V1	CD630_03050(abgB)	peptidase M20
+cgMLST V1 + HierCC V1	CD630_03060(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_03070(-)	four-disulfide core' protein
+cgMLST V1 + HierCC V1	CD630_03080(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_03090(-)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_03100(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_03120(arsR)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_03130(zntA)	cadmium-translocating P-type ATPase
+cgMLST V1 + HierCC V1	CD630_03140(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_03220(-)	ATPase
+cgMLST V1 + HierCC V1	CD630_03230(-)	nitric oxide reductase activation-like protein
+cgMLST V1 + HierCC V1	CD630_03240(cbiM)	cobalamin biosynthesis protein CbiM
+cgMLST V1 + HierCC V1	CD630_03260(cbiQ)	cobalt ECF transporter T component CbiQ
+cgMLST V1 + HierCC V1	CD630_03270(cbiO)	cobalt ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_03280(pcrA)	ATP-dependent DNA helicase PcrA
+cgMLST V1 + HierCC V1	CD630_03300(-)	phospholipase
+cgMLST V1 + HierCC V1	CD630_03310(ppiB)	peptidyl-prolyl cis-trans isomerase
+cgMLST V1 + HierCC V1	CD630_03330(ppaC)	manganese-dependent inorganic pyrophosphatase
+cgMLST V1 + HierCC V1	CD630_03340(adhE)	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+cgMLST V1 + HierCC V1	CD630_03410(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_03420(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_03430(-)	flagellin N-methylase
+cgMLST V1 + HierCC V1	CD630_03440(-)	MBL fold hydrolase
+cgMLST V1 + HierCC V1	CD630_03450(-)	GTP pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_03460(-)	ser/threonine protein phosphatase
+cgMLST V1 + HierCC V1	CD630_03470(-)	putative exported protein
+cgMLST V1 + HierCC V1	CD630_03500(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_03510(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_03520(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_03530(-)	D-aminoacyl-tRNA deacylase
+cgMLST V1 + HierCC V1	CD630_03920(-)	radical SAM protein
+cgMLST V1 + HierCC V1	CD630_03930(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_03940(ldhA)	lactate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_03950(hadA)	CoA transferase
+cgMLST V1 + HierCC V1	CD630_03960(hadI)	2-hydroxyglutaryl-CoA dehydratase
+cgMLST V1 + HierCC V1	CD630_03970(hadB)	2-hydroxyglutaryl-CoA dehydratase
+cgMLST V1 + HierCC V1	CD630_03980(hadC)	r-phenyllactate dehydratase small subunit
+cgMLST V1 + HierCC V1	CD630_03990(acdB)	acyl-CoA dehydrogenase
+cgMLST V1 + HierCC V1	CD630_04000(etfB1)	electron transfer flavoprotein subunit beta
+cgMLST V1 + HierCC V1	CD630_04010(etfA1)	electron transfer flavoprotein subunit alpha
+cgMLST V1 + HierCC V1	CD630_04020(-)	Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_04030(fba)	fructose-bisphosphate aldolase
+cgMLST V1 + HierCC V1	CD630_04040(-)	Domain of uncharacterised function (DUF1904)
+cgMLST V1 + HierCC V1	CD630_04410(rocR)	sigma-54-dependent Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_04420(ord)	"oxidoreductase, NAD-binding Rossmann fold family protein"
+cgMLST V1 + HierCC V1	CD630_04430(ortA)	2-amino-4-ketopentanoate thiolase subunit alpha
+cgMLST V1 + HierCC V1	CD630_04440(ortB)	PLP-dependent lyase/thiolase
+cgMLST V1 + HierCC V1	CD630_04450(oraS)	ornithine aminomutase
+cgMLST V1 + HierCC V1	CD630_04460(oraE)	LuxR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_04470(-)	ornithine aminomutase
+cgMLST V1 + HierCC V1	CD630_04480(orr)	alanine racemase
+cgMLST V1 + HierCC V1	CD630_04490(nhaC)	Na+/H+ antiporter NhaC
+cgMLST V1 + HierCC V1	CD630_04510(-)	dioxygenase
+cgMLST V1 + HierCC V1	CD630_04550(uvrD)	"Putative helicase, UvrD family"
+cgMLST V1 + HierCC V1	CD630_04590(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_04600(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_04610(vicK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_04620(-)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_04700(blaR)	BlaR1 family beta-lactam sensor/signal transducer
+cgMLST V1 + HierCC V1	CD630_04710(blaI)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_04750(-)	uracil DNA glycosylase superfamily protein
+cgMLST V1 + HierCC V1	CD630_04760(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_04800(spaG)	"lantibiotic protection ABC transporter permease subunit, MutG family protein"
+cgMLST V1 + HierCC V1	CD630_04810(spaR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_04820(spaK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_04830(-)	ftsX-like permease
+cgMLST V1 + HierCC V1	CD630_04840(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_04850(nisK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_04860(nisR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_04870(-)	omega-amidase NIT2
+cgMLST V1 + HierCC V1	CD630_04880(sugE)	QacE family quaternary ammonium compound efflux SMR transporter
+cgMLST V1 + HierCC V1	CD630_04890(purC)	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+cgMLST V1 + HierCC V1	CD630_04900(gutB)	galactitol-1-phosphate 5-dehydrogenase
+cgMLST V1 + HierCC V1	CD630_04910(manX)	PTS mannose transporter subunit IID
+cgMLST V1 + HierCC V1	CD630_04920(manX)	PTS mannose transporter subunit IID
+cgMLST V1 + HierCC V1	CD630_04930(manY)	PTS mannose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_04940(manZ)	PTS N-acetylglucosamine transporter subunit IIABC
+cgMLST V1 + HierCC V1	CD630_05150(dacC)	D-alanyl-D-alanine carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_05160(-)	transcriptional antiterminator
+cgMLST V1 + HierCC V1	CD630_05170(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05180(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05190(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05200(kdpD)	sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_05210(kdpE)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_05230(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_05240(pepT)	M42 glutamyl aminopeptidase
+cgMLST V1 + HierCC V1	CD630_05280(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_05290(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05300(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05310(-)	DeoR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_05320(-)	gyrI-like small molecule-binding domain protein
+cgMLST V1 + HierCC V1	CD630_05330(cheY)	two-component system response regulator
+cgMLST V1 + HierCC V1	CD630_05340(cheC)	chemotaxis protein CheY
+cgMLST V1 + HierCC V1	CD630_05350(cheD)	cheD chemotactic sensory transduction family protein
+cgMLST V1 + HierCC V1	CD630_05360(cheW)	cheW-like domain protein
+cgMLST V1 + HierCC V1	CD630_05370(dge1)	diguanylate cyclase response regulator
+cgMLST V1 + HierCC V1	CD630_05380(mcp)	methyl-accepting chemotaxis (MCP) signaling domain protein
+cgMLST V1 + HierCC V1	CD630_05390(cheA)	"histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+cgMLST V1 + HierCC V1	CD630_05400(cheW)	chemotaxis protein
+cgMLST V1 + HierCC V1	CD630_05410(cheR)	methyltransferase
+cgMLST V1 + HierCC V1	CD630_05420(cheB)	chemotaxis protein B
+cgMLST V1 + HierCC V1	CD630_05430(-)	copper amine oxidase domain-containing protein
+cgMLST V1 + HierCC V1	CD630_05440(ocd)	ornithine cyclodeaminase
+cgMLST V1 + HierCC V1	CD630_05450(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_05460(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05470(-)	penicillin-binding protein
+cgMLST V1 + HierCC V1	CD630_05480(-)	blaR1 peptidase M56 family protein
+cgMLST V1 + HierCC V1	CD630_05490(-)	exported protein
+cgMLST V1 + HierCC V1	CD630_05500(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05510(sleC)	peptidoglycan-binding protein
+cgMLST V1 + HierCC V1	CD630_05520(prsW)	protease PrsW
+cgMLST V1 + HierCC V1	CD630_05530(-)	methylase
+cgMLST V1 + HierCC V1	CD630_05540(sip2)	signal peptidase I
+cgMLST V1 + HierCC V1	CD630_05550(sip2)	signal peptidase I
+cgMLST V1 + HierCC V1	CD630_05560(-)	endonuclease
+cgMLST V1 + HierCC V1	CD630_05570(udk)	uridine kinase
+cgMLST V1 + HierCC V1	CD630_05580(glsA)	glutaminase A
+cgMLST V1 + HierCC V1	CD630_05590(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_05600(nfo)	endonuclease
+cgMLST V1 + HierCC V1	CD630_05610(-)	aldo/keto reductase
+cgMLST V1 + HierCC V1	CD630_05620(-)	endonuclease
+cgMLST V1 + HierCC V1	CD630_05630(queG)	epoxyqueuosine reductase
+cgMLST V1 + HierCC V1	CD630_05640(-)	ATP-dependent protease
+cgMLST V1 + HierCC V1	CD630_05650(nth)	endonuclease III
+cgMLST V1 + HierCC V1	CD630_05660(trmL)	tRNA (cytidine(34)-2'-O)-methyltransferase
+cgMLST V1 + HierCC V1	CD630_05670(-)	6-phosphogluconate dehydratase
+cgMLST V1 + HierCC V1	CD630_05690(bmpA)	BMP family ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_05710(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_05720(-)	ytxC-like family protein
+cgMLST V1 + HierCC V1	CD630_05730(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_05740(thrS)	threonine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_05760(-)	sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_05770(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_05780(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_05790(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_05800(gapN)	glyceraldehyde-3-phosphate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_05870(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_05880(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_05930(-)	Protein of unknown function (DUF3788)
+cgMLST V1 + HierCC V1	CD630_05940(-)	phosphoadenosine phosphosulfate sulfurtransferase
+cgMLST V1 + HierCC V1	CD630_05950(-)	nuclease
+cgMLST V1 + HierCC V1	CD630_05960(-)	spore coat associated JA family protein
+cgMLST V1 + HierCC V1	CD630_06090(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_06140(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_06150(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06160(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06170(-)	CAAX amino protease
+cgMLST V1 + HierCC V1	CD630_06190(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_06200(-)	Protein of uncharacterised function (DUF2922)
+cgMLST V1 + HierCC V1	CD630_06220(-)	Protein of uncharacterised function (DUF1659)
+cgMLST V1 + HierCC V1	CD630_06240(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06260(dnaB)	helicase DnaB
+cgMLST V1 + HierCC V1	CD630_06270(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06271(-)	ferredoxin
+cgMLST V1 + HierCC V1	CD630_06280(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_06290(fnr)	Crp/Fnr family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06310(-)	PadR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06400(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_06410(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_06420(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06580(cdu1)	"penicillinase R superfamily, beta lactamase repressor"
+cgMLST V1 + HierCC V1	CD630_06641(cdd1)	pathogenicity locus family protein
+cgMLST V1 + HierCC V1	CD630_06642(-)	CD06642
+cgMLST V1 + HierCC V1	CD630_06650(cdd2)	ABC-2 transporter family protein
+cgMLST V1 + HierCC V1	CD630_06660(cdd3)	multidrug ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_06670(cdd4)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_06680(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_06690(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_06700(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06710(-)	glyoxalase
+cgMLST V1 + HierCC V1	CD630_06730(-)	mycolic acid cyclopropane synthetase
+cgMLST V1 + HierCC V1	CD630_06750(-)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_06760(rsiT)	"Anti Sigma factors, ECF family"
+cgMLST V1 + HierCC V1	CD630_06770(csfT)	RNA polymerase sigma factor
+cgMLST V1 + HierCC V1	CD630_06840(ftsH)	ATP-dependent zinc metalloprotease FtsH
+cgMLST V1 + HierCC V1	CD630_06850(infC)	translation initiation factor IF-3
+cgMLST V1 + HierCC V1	CD630_06860(rpmI)	50S ribosomal protein L35
+cgMLST V1 + HierCC V1	CD630_06870(rplT)	50S ribosomal protein L20
+cgMLST V1 + HierCC V1	CD630_06880(-)	winged helix-turn-helix DNA-binding family protein
+cgMLST V1 + HierCC V1	CD630_06900(cpdB)	calcineurin-like phosphoesterase
+cgMLST V1 + HierCC V1	CD630_06910(-)	short-chain dehydrogenase
+cgMLST V1 + HierCC V1	CD630_06930(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06940(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_06950(-)	m3 family oligoendopeptidase
+cgMLST V1 + HierCC V1	CD630_06960(trkH)	Trk family potassium uptake protein
+cgMLST V1 + HierCC V1	CD630_06970(trkA)	potassium transporter Trk
+cgMLST V1 + HierCC V1	CD630_06980(spoU)	tRNA/rRNA methyltransferase SpoU
+cgMLST V1 + HierCC V1	CD630_06990(pheS)	phenylalanine--tRNA ligase subunit alpha
+cgMLST V1 + HierCC V1	CD630_07000(pheT)	phenylalanine--tRNA ligase subunit beta
+cgMLST V1 + HierCC V1	CD630_07010(zapA)	cell division ZapA family protein
+cgMLST V1 + HierCC V1	CD630_07020(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_07030(-)	peptidase U32
+cgMLST V1 + HierCC V1	CD630_07040(-)	phosphohydrolase
+cgMLST V1 + HierCC V1	CD630_07050(mutT)	DNA mismatch repair protein MutT
+cgMLST V1 + HierCC V1	CD630_07060(-)	reductase
+cgMLST V1 + HierCC V1	CD630_07080(pepD)	aminoacyl-histidine dipeptidase
+cgMLST V1 + HierCC V1	CD630_07090(mutS2)	endonuclease MutS2
+cgMLST V1 + HierCC V1	CD630_07100(-)	purine nucleoside phosphorylase
+cgMLST V1 + HierCC V1	CD630_07110(argS)	arginine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_07120(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_07121(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_07130(-)	B12-binding domain-containing radical SAM protein
+cgMLST V1 + HierCC V1	CD630_07140(-)	tetratricopeptide repeat family protein
+cgMLST V1 + HierCC V1	CD630_07150(ptb)	phosphate butyryltransferase
+cgMLST V1 + HierCC V1	CD630_07160(cooS)	carbon-monoxide dehydrogenase catalytic subunit
+cgMLST V1 + HierCC V1	CD630_07170(cooC)	chromosome partitioning protein ParA
+cgMLST V1 + HierCC V1	CD630_07180(fhs)	formate--tetrahydrofolate ligase
+cgMLST V1 + HierCC V1	CD630_07190(fchA)	methenyltetrahydrofolate cyclohydrolase
+cgMLST V1 + HierCC V1	CD630_07200(folD)	"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase"
+cgMLST V1 + HierCC V1	CD630_07210(-)	methylenetetrahydrofolate reductase
+cgMLST V1 + HierCC V1	CD630_07220(metF)	"5,10-methylenetetrahydrofolate reductase"
+cgMLST V1 + HierCC V1	CD630_07230(lpd)	dihydrolipoyl dehydrogenase
+cgMLST V1 + HierCC V1	CD630_07240(cooC)	carbon monoxide dehydrogenase
+cgMLST V1 + HierCC V1	CD630_07250(cdhD)	acetyl-CoA synthase subunit delta
+cgMLST V1 + HierCC V1	CD630_07260(cdhE)	acetyl-CoA synthase subunit gamma
+cgMLST V1 + HierCC V1	CD630_07270(acsE)	carbon monoxide dehydrogenase
+cgMLST V1 + HierCC V1	CD630_07280(acsB)	acetyl-CoA decarbonylase
+cgMLST V1 + HierCC V1	CD630_07290(gcvH)	glycine cleavage system protein H
+cgMLST V1 + HierCC V1	CD630_07300(-)	2Fe-2S iron-sulfur cluster binding domain protein
+cgMLST V1 + HierCC V1	CD630_07310(-)	radical SAM protein
+cgMLST V1 + HierCC V1	CD630_07320(bioB)	radical SAM superfamily protein
+cgMLST V1 + HierCC V1	CD630_07330(lplA)	biotin/lipoate A/B ligase
+cgMLST V1 + HierCC V1	CD630_07340(-)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_07350(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_07360(-)	zinc transporter
+cgMLST V1 + HierCC V1	CD630_07370(hisK)	histidinol-phosphatase
+cgMLST V1 + HierCC V1	CD630_07390(-)	exported protein
+cgMLST V1 + HierCC V1	CD630_07440(motA)	motility protein A
+cgMLST V1 + HierCC V1	CD630_07450(motB)	chemotaxis protein MotB
+cgMLST V1 + HierCC V1	CD630_07470(-)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_07490(uvrD)	putative ATP-dependent DNA helicase
+cgMLST V1 + HierCC V1	CD630_07500(-)	amino acid ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_07510(-)	amino acid ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_07520(-)	peptide ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_07530(iscS1)	aminotransferase class-V family protein
+cgMLST V1 + HierCC V1	CD630_07540(thiI)	tRNA sulfurtransferase ThiI
+cgMLST V1 + HierCC V1	CD630_07550(-)	ferrous iron transporter A
+cgMLST V1 + HierCC V1	CD630_07560(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_07580(pflA)	pyruvate formate-lyase 1-activating enzyme
+cgMLST V1 + HierCC V1	CD630_07590(plfB)	formate acetyltransferase
+cgMLST V1 + HierCC V1	CD630_07600(yrbG)	sodium:calcium antiporter
+cgMLST V1 + HierCC V1	CD630_07610(deaD)	RNA helicase
+cgMLST V1 + HierCC V1	CD630_07700(spoIIAA)	anti-sigma F factor antagonist
+cgMLST V1 + HierCC V1	CD630_07710(spoIIAB)	anti-sigma F factor
+cgMLST V1 + HierCC V1	CD630_07720(sigF)	RNA polymerase sigma-F factor
+cgMLST V1 + HierCC V1	CD630_07730(spoVAC)	stage V sporulation protein AC
+cgMLST V1 + HierCC V1	CD630_07740(spoVAD)	stage V sporulation protein AD
+cgMLST V1 + HierCC V1	CD630_07750(spoVAE)	stage V sporulation protein AE
+cgMLST V1 + HierCC V1	CD630_07760(lacI)	LacI family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_07770(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_07780(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_07790(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_07800(-)	DUF1177 domain-containing protein
+cgMLST V1 + HierCC V1	CD630_07810(mrcA)	penicillin-binding transpeptidase
+cgMLST V1 + HierCC V1	CD630_07820(-)	sporulation protein YunB
+cgMLST V1 + HierCC V1	CD630_07830(spoIVB)	peptidase S55
+cgMLST V1 + HierCC V1	CD630_07840(amiA)	N-acetylmuramoyl-L-alanine amidase
+cgMLST V1 + HierCC V1	CD630_07850(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_07870(-)	metal-binding protein
+cgMLST V1 + HierCC V1	CD630_07880(hflX)	GTPase HflX
+cgMLST V1 + HierCC V1	CD630_07890(-)	HEAT repeats family protein
+cgMLST V1 + HierCC V1	CD630_07900(-)	NUDIX hydrolase
+cgMLST V1 + HierCC V1	CD630_07910(-)	YigZ family protein
+cgMLST V1 + HierCC V1	CD630_07920(-)	sulfite exporter TauE/SafE family protein
+cgMLST V1 + HierCC V1	CD630_07930(-)	permease
+cgMLST V1 + HierCC V1	CD630_07940(nadE)	NAD(+) synthetase
+cgMLST V1 + HierCC V1	CD630_07950(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_08000(crt1)	crotonase
+cgMLST V1 + HierCC V1	CD630_08010(-)	citrate transporter family protein
+cgMLST V1 + HierCC V1	CD630_08020(hadA)	CoA transferase
+cgMLST V1 + HierCC V1	CD630_08030(bcd)	acyl-CoA dehydrogenase
+cgMLST V1 + HierCC V1	CD630_08040(etfB)	electron transfer flavoprotein subunit beta
+cgMLST V1 + HierCC V1	CD630_08050(etfA)	electron transfer flavoprotein subunit alpha
+cgMLST V1 + HierCC V1	CD630_08060(-)	sigma-54-dependent Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_08070(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_08090(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_08100(wrbA)	flavodoxin
+cgMLST V1 + HierCC V1	CD630_08120(-)	universal stress protein UspA
+cgMLST V1 + HierCC V1	CD630_08130(-)	PTS sugar transporter subunit IIBC
+cgMLST V1 + HierCC V1	CD630_08140(pdhR)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_08150(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_08160(bglF)	PTS beta-glucoside transporter subunit EIIBCA
+cgMLST V1 + HierCC V1	CD630_08180(bglA)	aryl-phospho-beta-D-glucosidase BglC
+cgMLST V1 + HierCC V1	CD630_08190(licT)	PRD domain protein
+cgMLST V1 + HierCC V1	CD630_08250(rbr)	rubrerythrin
+cgMLST V1 + HierCC V1	CD630_08260(perR)	transcriptional repressor
+cgMLST V1 + HierCC V1	CD630_08270(rbo)	superoxide reductase
+cgMLST V1 + HierCC V1	CD630_08280(gltB)	glutamate synthase
+cgMLST V1 + HierCC V1	CD630_08300(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_08310(deaD)	putative ATP-dependent RNA helicase
+cgMLST V1 + HierCC V1	CD630_08320(nifV)	homocitrate synthase
+cgMLST V1 + HierCC V1	CD630_08330(acnB)	aconitate hydratase
+cgMLST V1 + HierCC V1	CD630_08340(icd)	isocitrate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_08350(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_08360(-)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_08370(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_08380(-)	DNA-binding protein
+cgMLST V1 + HierCC V1	CD630_08390(-)	CAAX amino protease
+cgMLST V1 + HierCC V1	CD630_08400(-)	fumarylacetoacetate (FAA) hydrolase
+cgMLST V1 + HierCC V1	CD630_08410(purH)	5-aminoimidazole-4-carboxamide ribonucleotide transformylase
+cgMLST V1 + HierCC V1	CD630_08420(-)	phosphatase
+cgMLST V1 + HierCC V1	CD630_08430(-)	glycosyl transferase group 1 family protein
+cgMLST V1 + HierCC V1	CD630_08440(-)	cell wall binding repeat 2
+cgMLST V1 + HierCC V1	CD630_08450(-)	nuclease
+cgMLST V1 + HierCC V1	CD630_08460(-)	Conserved hypothetical protein
+cgMLST V1 + HierCC V1	CD630_08470(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_08500(-)	iron-sulfur cluster biogenesis protein NfuA
+cgMLST V1 + HierCC V1	CD630_08510(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_08520(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_08530(oppB)	binding--dependent transport system inner membrane component family protein
+cgMLST V1 + HierCC V1	CD630_08540(oppC)	binding--dependent transport system inner membrane component family protein
+cgMLST V1 + HierCC V1	CD630_08550(oppA)	peptide ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_08560(oppD)	peptide ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_08600(-)	mgsA AAA+ ATPase
+cgMLST V1 + HierCC V1	CD630_08610(celA)	PTS sugar transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_08620(celB)	PTS lactose/cellobiose IIC component family protein
+cgMLST V1 + HierCC V1	CD630_08630(celC)	PTS lactose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_08640(glvA)	maltose-6'-phosphate glucosidase malH
+cgMLST V1 + HierCC V1	CD630_08650(-)	macro domain protein
+cgMLST V1 + HierCC V1	CD630_08670(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_08680(-)	"DNA-binding domain, excisionase family"
+cgMLST V1 + HierCC V1	CD630_08690(modA)	molybdate ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_08700(modB)	molybdenum ABC transporter permease subunit
+cgMLST V1 + HierCC V1	CD630_08710(modC)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_08720(maa)	maltose O-acetyltransferase
+cgMLST V1 + HierCC V1	CD630_08730(-)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_08790(nnrE)	bifunctional ADP-dependent (S)-NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase
+cgMLST V1 + HierCC V1	CD630_08800(-)	protease
+cgMLST V1 + HierCC V1	CD630_08810(-)	SPFH domain / Band 7 family protein
+cgMLST V1 + HierCC V1	CD630_08820(glgC)	glucose-1-phosphate adenylyltransferase
+cgMLST V1 + HierCC V1	CD630_08830(glgD)	glucose-1-phosphate adenylyltransferase subunit GlgD
+cgMLST V1 + HierCC V1	CD630_08840(glgA)	glycogen synthase
+cgMLST V1 + HierCC V1	CD630_08850(glgP)	"phosphorylase, glycogen/starch/alpha-glucan family"
+cgMLST V1 + HierCC V1	CD630_08860(-)	alpha-amylase
+cgMLST V1 + HierCC V1	CD630_08880(speA)	aminotransferase class-V family protein
+cgMLST V1 + HierCC V1	CD630_08890(speH)	S-adenosylmethionine decarboxylase proenzyme
+cgMLST V1 + HierCC V1	CD630_08900(speE)	polyamine aminopropyltransferase
+cgMLST V1 + HierCC V1	CD630_08910(speB)	agmatinase
+cgMLST V1 + HierCC V1	CD630_08930(-)	iron hydrogenase
+cgMLST V1 + HierCC V1	CD630_08940(-)	iron hydrogenase
+cgMLST V1 + HierCC V1	CD630_08970(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_08980(-)	ATP-dependent Zn protease
+cgMLST V1 + HierCC V1	CD630_08990(dinB)	DNA polymerase IV
+cgMLST V1 + HierCC V1	CD630_09000(opuCA)	proline/glycine betaine ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_09010(opuCC)	"ABC-type transport system, glycine betaine/carnitine/choline permease"
+cgMLST V1 + HierCC V1	CD630_09020(-)	cation diffusion facilitator family transporter
+cgMLST V1 + HierCC V1	CD630_09810(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_09820(-)	prenyltransferase UbiA
+cgMLST V1 + HierCC V1	CD630_09830(-)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_09840(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_09850(-)	MATE family efflux transporter
+cgMLST V1 + HierCC V1	CD630_09860(rpsA)	30S ribosomal protein S1
+cgMLST V1 + HierCC V1	CD630_09870(ycdX)	phosphatase
+cgMLST V1 + HierCC V1	CD630_09880(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_09890(leuA)	2-isopropylmalate synthase
+cgMLST V1 + HierCC V1	CD630_09900(leuC)	3-isopropylmalate dehydratase large subunit
+cgMLST V1 + HierCC V1	CD630_09910(leuD)	3-isopropylmalate dehydratase small subunit
+cgMLST V1 + HierCC V1	CD630_09920(leuB)	3-isopropylmalate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_09930(-)	thioesterase
+cgMLST V1 + HierCC V1	CD630_09940(-)	aminotransferase
+cgMLST V1 + HierCC V1	CD630_09950(serA)	D-3-phosphoglycerate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_09960(-)	chromosome partitioning protein ParB
+cgMLST V1 + HierCC V1	CD630_09990(-)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_10000(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_10010(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_10020(ybaK)	aminoacyl-tRNA deacylase
+cgMLST V1 + HierCC V1	CD630_10030(fumA)	fumarate hydratase
+cgMLST V1 + HierCC V1	CD630_10040(fumB)	fumarate hydratase
+cgMLST V1 + HierCC V1	CD630_10050(sfcA)	malate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_10070(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_10080(-)	DNA-binding protein
+cgMLST V1 + HierCC V1	CD630_10090(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_10100(nagA)	N-acetylglucosamine-6-phosphate deacetylase
+cgMLST V1 + HierCC V1	CD630_10110(nagB)	glucosamine-6-phosphate deaminase
+cgMLST V1 + HierCC V1	CD630_10120(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_10130(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_10140(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_10150(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_10160(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_10170(-)	multidrug ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_10180(-)	multidrug ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_10190(-)	VTC domain protein
+cgMLST V1 + HierCC V1	CD630_10200(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_10210(-)	cotH family protein
+cgMLST V1 + HierCC V1	CD630_10220(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_10230(-)	Cro/Cl family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_10240(potA)	spermidine/putrescine ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_10250(potB)	spermidine/putrescine ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_10260(potC)	spermidine/putrescine ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_10270(potD)	spermidine/putrescine ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_10280(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_10300(-)	glycosyl transferase family 2
+cgMLST V1 + HierCC V1	CD630_10310(-)	cellulose synthase
+cgMLST V1 + HierCC V1	CD630_10330(mnaA)	UDP-N-acetyl glucosamine 2-epimerase
+cgMLST V1 + HierCC V1	CD630_10340(-)	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase
+cgMLST V1 + HierCC V1	CD630_10370(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_10380(uvrD)	helicase superfamily 1 UvrD-family
+cgMLST V1 + HierCC V1	CD630_10390(-)	PD-(D/E)XK nuclease superfamily protein
+cgMLST V1 + HierCC V1	CD630_10400(addB)	ATP-dependent helicase/deoxyribonuclease subunit B
+cgMLST V1 + HierCC V1	CD630_10410(addA)	ATP-dependent helicase/nuclease subunit A
+cgMLST V1 + HierCC V1	CD630_10420(sbcD)	exonuclease sbcCD subunit D
+cgMLST V1 + HierCC V1	CD630_10430(sbcC)	nuclease SbcCD subunit C
+cgMLST V1 + HierCC V1	CD630_10440(tlyC)	hemolysin
+cgMLST V1 + HierCC V1	CD630_10450(-)	sporulation integral membrane protein YtvI
+cgMLST V1 + HierCC V1	CD630_10460(pepT)	peptidase T
+cgMLST V1 + HierCC V1	CD630_10470(-)	cell wall-binding repeat 2 family protein
+cgMLST V1 + HierCC V1	CD630_10480(-)	phosphodiesterase
+cgMLST V1 + HierCC V1	CD630_10490(ppnK)	NAD(+) kinase
+cgMLST V1 + HierCC V1	CD630_10500(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_10510(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_10520(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_10530(-)	deacylase
+cgMLST V1 + HierCC V1	CD630_10540(bcd2)	butyryl-CoA dehydrogenase
+cgMLST V1 + HierCC V1	CD630_10550(etfB)	electron transfer flavoprotein subunit beta
+cgMLST V1 + HierCC V1	CD630_10560(etfA)	electron transfer flavoprotein subunit alpha
+cgMLST V1 + HierCC V1	CD630_10570(crt2)	crotonase
+cgMLST V1 + HierCC V1	CD630_10580(hbd)	3-hydroxybutyryl-CoA dehydrogenase
+cgMLST V1 + HierCC V1	CD630_10590(thlA1)	acetyl-CoA acetyltransferase
+cgMLST V1 + HierCC V1	CD630_10600(rluD)	RNA pseudouridine synthase
+cgMLST V1 + HierCC V1	CD630_10610(-)	37-kD nucleoid-associated bacterial family protein
+cgMLST V1 + HierCC V1	CD630_10620(acpP)	acyl carrier protein
+cgMLST V1 + HierCC V1	CD630_10630(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_10631(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_10633(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_10640(ccpA)	LacI family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_10650(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_10660(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_10670(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_10680(spoVB)	polysaccharide biosynthesis protein
+cgMLST V1 + HierCC V1	CD630_10690(-)	phosphatase
+cgMLST V1 + HierCC V1	CD630_10700(-)	"transcriptional regulator, GntR family"
+cgMLST V1 + HierCC V1	CD630_10710(-)	uPF0291 protein CLOBAR_00783
+cgMLST V1 + HierCC V1	CD630_10720(-)	aminopeptidase
+cgMLST V1 + HierCC V1	CD630_10740(manX)	PTS mannose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_10750(-)	"membrane complex biogenesis protein, BtpA family"
+cgMLST V1 + HierCC V1	CD630_10760(gfrB)	PTS mannose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_10770(gfrC)	PTS sugar transporter
+cgMLST V1 + HierCC V1	CD630_10780(gfrD)	PTS mannose transporter subunit IID
+cgMLST V1 + HierCC V1	CD630_10790(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_10800(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_10810(moeA)	molybdopterin molybdenumtransferase MoeA
+cgMLST V1 + HierCC V1	CD630_10820(mobB)	molybdopterin-guanine dinucleotide biosynthesis protein MobB
+cgMLST V1 + HierCC V1	CD630_10840(-)	thiamine ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_10850(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_10860(-)	peptidase
+cgMLST V1 + HierCC V1	CD630_10870(zupT)	zinc transporter ZupT
+cgMLST V1 + HierCC V1	CD630_10890(rgbR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_11200(pflD)	"glycyl radical enzyme, PFL2/glycerol dehydratase"
+cgMLST V1 + HierCC V1	CD630_11220(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_11230(-)	phosphoesterase
+cgMLST V1 + HierCC V1	CD630_11240(-)	coenzyme PQQ synthesis D family protein
+cgMLST V1 + HierCC V1	CD630_11241(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_11250(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_11260(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_11270(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_11280(polA)	DNA polymerase I
+cgMLST V1 + HierCC V1	CD630_11290(coaE)	dephospho-CoA kinase
+cgMLST V1 + HierCC V1	CD630_11300(slt)	lytic transglycosylase
+cgMLST V1 + HierCC V1	CD630_11310(-)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_11320(copZ)	heavy metal-associated domain protein
+cgMLST V1 + HierCC V1	CD630_11330(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_11340(gloA)	lactoylglutathione lyase
+cgMLST V1 + HierCC V1	CD630_11350(cwlA)	ligand-binding protein SH3
+cgMLST V1 + HierCC V1	CD630_11360(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_11370(rnfC)	electron transport complex protein RnfC
+cgMLST V1 + HierCC V1	CD630_11380(rnfD)	electron transport complex protein RnfD
+cgMLST V1 + HierCC V1	CD630_11390(rnfG)	electron transport complex protein RnfG
+cgMLST V1 + HierCC V1	CD630_11400(rnfE)	RnfABCDGE type electron transport complex subunit E
+cgMLST V1 + HierCC V1	CD630_11410(rnfA)	"electron transport complex, RnfABCDGE type, A subunit"
+cgMLST V1 + HierCC V1	CD630_11420(rnfB)	ferredoxin
+cgMLST V1 + HierCC V1	CD630_11430(maf)	septum formation inhibitor Maf
+cgMLST V1 + HierCC V1	CD630_11440(radC)	DNA repair protein RadC
+cgMLST V1 + HierCC V1	CD630_11450(mreB2)	rod shape-determining protein
+cgMLST V1 + HierCC V1	CD630_11460(mreC)	rod shape-determining protein MreC
+cgMLST V1 + HierCC V1	CD630_11470(mreD)	rod shape-determining protein MreD
+cgMLST V1 + HierCC V1	CD630_11480(mrdA)	penicillin-binding protein
+cgMLST V1 + HierCC V1	CD630_11490(minC)	septum site-determining protein MinC
+cgMLST V1 + HierCC V1	CD630_11500(minD)	septum site-determining protein MinD
+cgMLST V1 + HierCC V1	CD630_11510(minE)	cell division topological specificity factor
+cgMLST V1 + HierCC V1	CD630_11520(mrdB)	rod shape-determining protein RodA
+cgMLST V1 + HierCC V1	CD630_11530(mgsA)	methylglyoxal synthase
+cgMLST V1 + HierCC V1	CD630_11570(norV)	FprA family A-type flavoprotein
+cgMLST V1 + HierCC V1	CD630_11580(-)	radical SAM superfamily protein
+cgMLST V1 + HierCC V1	CD630_11590(-)	radical SAM protein
+cgMLST V1 + HierCC V1	CD630_11600(rng)	ribonuclease G
+cgMLST V1 + HierCC V1	CD630_11610(rplU)	50S ribosomal protein L21
+cgMLST V1 + HierCC V1	CD630_11620(ysxB)	Putative ribosome-associated protein
+cgMLST V1 + HierCC V1	CD630_11630(rpmA)	50S ribosomal protein L27
+cgMLST V1 + HierCC V1	CD630_11640(obgE)	GTPase Obg
+cgMLST V1 + HierCC V1	CD630_11650(yhbY)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_11660(hom1)	homoserine dehydrogenase
+cgMLST V1 + HierCC V1	CD630_11670(-)	integrase
+cgMLST V1 + HierCC V1	CD630_11680(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_11690(pdhR)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_11700(-)	lactate racemization operon protein LarA
+cgMLST V1 + HierCC V1	CD630_11710(etfB)	electron transfer flavoprotein subunit beta
+cgMLST V1 + HierCC V1	CD630_11720(etfA)	electron transfer flavoprotein subunit alpha
+cgMLST V1 + HierCC V1	CD630_11730(glcD)	2-hydroxy-acid oxidase
+cgMLST V1 + HierCC V1	CD630_11750(ackA)	acetate kinase
+cgMLST V1 + HierCC V1	CD630_11760(-)	putative metal-binding protein
+cgMLST V1 + HierCC V1	CD630_11761(rpmF)	50S ribosomal protein L32
+cgMLST V1 + HierCC V1	CD630_11770(fapR)	transcription factor fapR
+cgMLST V1 + HierCC V1	CD630_11780(plsX)	phosphate acyltransferase
+cgMLST V1 + HierCC V1	CD630_11790(fabH)	3-oxoacyl-ACP synthase III
+cgMLST V1 + HierCC V1	CD630_11800(fabK)	2-nitropropane dioxygenase
+cgMLST V1 + HierCC V1	CD630_11810(fabD)	malonyl CoA-acyl carrier protein transacylase
+cgMLST V1 + HierCC V1	CD630_11820(fabG)	beta-ketoacyl-ACP reductase
+cgMLST V1 + HierCC V1	CD630_11840(fabF)	beta-ketoacyl-[acyl-carrier-protein] synthase II
+cgMLST V1 + HierCC V1	CD630_11850(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_11870(-)	TSCPD domain-containing protein
+cgMLST V1 + HierCC V1	CD630_11880(-)	glutamine amidotransferase
+cgMLST V1 + HierCC V1	CD630_11910(fbp)	"fructose 1,6-bisphosphatase"
+cgMLST V1 + HierCC V1	CD630_11920(spoIIIAA)	stage III sporulation protein AA
+cgMLST V1 + HierCC V1	CD630_11930(spoIIIAB)	stage III sporulation protein AB
+cgMLST V1 + HierCC V1	CD630_11940(spoIIIAC)	stage III sporulation protein AC
+cgMLST V1 + HierCC V1	CD630_11950(spoIIIAD)	stage III sporulation protein AD
+cgMLST V1 + HierCC V1	CD630_11960(spoIIIAE)	stage III sporulation protein AE
+cgMLST V1 + HierCC V1	CD630_11970(spoiIIIAF)	stage III sporulation AF family protein
+cgMLST V1 + HierCC V1	CD630_11980(spoIIIAG)	stage III sporulation protein AG
+cgMLST V1 + HierCC V1	CD630_12000(-)	alkaline-shock protein
+cgMLST V1 + HierCC V1	CD630_12010(nusB)	transcription antitermination factor NusB
+cgMLST V1 + HierCC V1	CD630_12020(gcp)	glycoprotease
+cgMLST V1 + HierCC V1	CD630_12030(xseA)	exodeoxyribonuclease VII large subunit
+cgMLST V1 + HierCC V1	CD630_12040(xseB)	exodeoxyribonuclease VII small subunit
+cgMLST V1 + HierCC V1	CD630_12050(ispA)	farnesyl-diphosphate synthase
+cgMLST V1 + HierCC V1	CD630_12060(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_12070(dxs)	1-deoxy-D-xylulose-5-phosphate synthase
+cgMLST V1 + HierCC V1	CD630_12080(tlyA)	RNA methyltransferase
+cgMLST V1 + HierCC V1	CD630_12090(recN)	DNA repair protein RecN
+cgMLST V1 + HierCC V1	CD630_12100(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_12110(-)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_12120(bltD)	spermidine acetyltransferase
+cgMLST V1 + HierCC V1	CD630_12130(spoIVB)	peptidase S55
+cgMLST V1 + HierCC V1	CD630_12140(spo0A)	sporulation transcription factor Spo0A
+cgMLST V1 + HierCC V1	CD630_12150(-)	thiamin pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_12160(-)	Protein of unknown function (DUF3186)
+cgMLST V1 + HierCC V1	CD630_12170(-)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_12180(-)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_12190(-)	Protein of uncharacterised function (DUF3866)
+cgMLST V1 + HierCC V1	CD630_12200(nudF)	ADP-ribose pyrophosphatase
+cgMLST V1 + HierCC V1	CD630_12210(spoIIM)	membrane protein
+cgMLST V1 + HierCC V1	CD630_12220(xerD)	phage integrase
+cgMLST V1 + HierCC V1	CD630_12230(drm)	phosphopentomutase
+cgMLST V1 + HierCC V1	CD630_12240(pupG)	purine-nucleoside phosphorylase
+cgMLST V1 + HierCC V1	CD630_12250(pdp)	pyrimidine-nucleoside phosphorylase
+cgMLST V1 + HierCC V1	CD630_12260(-)	aminodeoxychorismate lyase
+cgMLST V1 + HierCC V1	CD630_12270(-)	O-methyltransferase
+cgMLST V1 + HierCC V1	CD630_12280(-)	peptidase U32
+cgMLST V1 + HierCC V1	CD630_12290(mrdA)	peptidoglycan glycosyltransferase
+cgMLST V1 + HierCC V1	CD630_12420(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_12430(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_12440(-)	cleavage protein
+cgMLST V1 + HierCC V1	CD630_12450(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_12460(efp)	elongation factor P
+cgMLST V1 + HierCC V1	CD630_12470(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_12480(rnc)	ribonuclease III
+cgMLST V1 + HierCC V1	CD630_12490(-)	radical SAM protein
+cgMLST V1 + HierCC V1	CD630_12500(smc)	chromosome segregation protein SMC
+cgMLST V1 + HierCC V1	CD630_12510(ftsY)	signal recognition particle-docking protein FtsY
+cgMLST V1 + HierCC V1	CD630_12511(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_12520(ffh)	signal recognition particle protein
+cgMLST V1 + HierCC V1	CD630_12530(rpsP)	30S ribosomal protein S16
+cgMLST V1 + HierCC V1	CD630_12540(-)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_12550(rimM)	ribosome maturation factor RimM
+cgMLST V1 + HierCC V1	CD630_12560(trmD)	tRNA (guanosine(37)-N1)-methyltransferase TrmD
+cgMLST V1 + HierCC V1	CD630_12570(rplS)	50S ribosomal protein L19
+cgMLST V1 + HierCC V1	CD630_12580(rbgA)	ribosome biogenesis GTPase YlqF
+cgMLST V1 + HierCC V1	CD630_12590(brnQ-1)	branched-chain amino acid transporter
+cgMLST V1 + HierCC V1	CD630_12600(brnQ-2)	branched-chain amino acid transporter
+cgMLST V1 + HierCC V1	CD630_12610(nrdA)	ribonucleoside-diphosphate reductase adenosylcobalamin-dependent
+cgMLST V1 + HierCC V1	CD630_12620(rnhB)	ribonuclease HII
+cgMLST V1 + HierCC V1	CD630_12630(-)	alpha-hydroxy-acid oxidizing enzyme
+cgMLST V1 + HierCC V1	CD630_12640(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_12650(carD)	CarD family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_12660(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_12670(-)	ABC-2 type transporter family protein
+cgMLST V1 + HierCC V1	CD630_12680(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_12700(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_12710(yraN)	nuclease-related domain protein
+cgMLST V1 + HierCC V1	CD630_12720(comM)	sigma-54 interaction domain protein
+cgMLST V1 + HierCC V1	CD630_12730(smf)	DNA processing protein DprA
+cgMLST V1 + HierCC V1	CD630_12740(topA)	DNA topoisomerase I
+cgMLST V1 + HierCC V1	CD630_12750(codY)	transcriptional repressor CodY
+cgMLST V1 + HierCC V1	CD630_12760(rarA)	"ATPase, AAA family"
+cgMLST V1 + HierCC V1	CD630_12770(-)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_12780(iscR)	Rrf2 family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_12790(iscS2)	cysteine desulfurase NifS
+cgMLST V1 + HierCC V1	CD630_12800(iscU)	iron-sulfur cluster assembly scaffold protein
+cgMLST V1 + HierCC V1	CD630_12810(mnmA)	tRNA 2-thiouridine(34) synthase MnmA
+cgMLST V1 + HierCC V1	CD630_12830(-)	uPF0297 protein EUBVEN_00251
+cgMLST V1 + HierCC V1	CD630_12840(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_12850(ruvX)	crossover junction endodeoxyribonuclease RuvA
+cgMLST V1 + HierCC V1	CD630_12860(-)	UPF0473 protein
+cgMLST V1 + HierCC V1	CD630_12870(fur)	transcriptional repressor
+cgMLST V1 + HierCC V1	CD630_12880(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_12890(rnj)	ribonuclease J
+cgMLST V1 + HierCC V1	CD630_12900(-)	small acid-soluble spore protein
+cgMLST V1 + HierCC V1	CD630_12910(dacF)	D-alanyl-D-alanine carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_12920(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_12930(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_12940(-)	peptidase M25
+cgMLST V1 + HierCC V1	CD630_12960(scpB)	SMC-Scp complex subunit ScpB
+cgMLST V1 + HierCC V1	CD630_12980(-)	sporulation protein YtfJ
+cgMLST V1 + HierCC V1	CD630_12990(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13000(pepA)	leucyl aminopeptidase
+cgMLST V1 + HierCC V1	CD630_13010(-)	integral membrane family protein
+cgMLST V1 + HierCC V1	CD630_13011(-)	"ABC-type transport system,ATP-binding protein"
+cgMLST V1 + HierCC V1	CD630_13020(-)	MazG nucleotide pyrophosphohydrolase
+cgMLST V1 + HierCC V1	CD630_13030(npdA)	NAD-dependent protein deacylase
+cgMLST V1 + HierCC V1	CD630_13040(acd)	mannosyl-glycoendo-beta-N-acetylglucosaminidase
+cgMLST V1 + HierCC V1	CD630_13050(dnaF)	"DNA polymerase III, alpha subunit, Gram-positive type"
+cgMLST V1 + HierCC V1	CD630_13060(rimP)	ribosome maturation factor
+cgMLST V1 + HierCC V1	CD630_13070(nusA)	transcription termination/antitermination protein NusA
+cgMLST V1 + HierCC V1	CD630_13071(ylxR)	nucleic acid-binding protein
+cgMLST V1 + HierCC V1	CD630_13080(-)	50S ribosomal protein L7ae
+cgMLST V1 + HierCC V1	CD630_13090(infB)	translation initiation factor IF-2
+cgMLST V1 + HierCC V1	CD630_13100(rbfA)	ribosome-binding factor A
+cgMLST V1 + HierCC V1	CD630_13140(truB)	tRNA pseudouridine synthase B
+cgMLST V1 + HierCC V1	CD630_13150(ribC)	riboflavin biosynthesis protein RibC
+cgMLST V1 + HierCC V1	CD630_13151(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13160(rpsO)	30S ribosomal protein S15
+cgMLST V1 + HierCC V1	CD630_13170(-)	6-phosphogluconate dehydratase
+cgMLST V1 + HierCC V1	CD630_13180(pnp)	polyribonucleotide nucleotidyltransferase
+cgMLST V1 + HierCC V1	CD630_13190(-)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_13200(-)	zinc protease
+cgMLST V1 + HierCC V1	CD630_13210(-)	sporulation protein YlmC/YmxH
+cgMLST V1 + HierCC V1	CD630_13220(dapG)	aspartate kinase
+cgMLST V1 + HierCC V1	CD630_13240(ftsK)	cell division protein FtsK
+cgMLST V1 + HierCC V1	CD630_13250(selU)	tRNA 2-selenouridine(34) synthase MnmH
+cgMLST V1 + HierCC V1	CD630_13260(rimO)	ribosomal protein S12 methylthiotransferase RimO
+cgMLST V1 + HierCC V1	CD630_13270(pgsA)	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+cgMLST V1 + HierCC V1	CD630_13280(recA)	DNA recombination/repair protein RecA
+cgMLST V1 + HierCC V1	CD630_13290(rny)	ribonuclease Y
+cgMLST V1 + HierCC V1	CD630_13300(-)	DNA helicase
+cgMLST V1 + HierCC V1	CD630_13310(sip3)	signal peptidase I
+cgMLST V1 + HierCC V1	CD630_13320(uppP1)	undecaprenyl-diphosphatase
+cgMLST V1 + HierCC V1	CD630_13330(xerD)	phage integrase
+cgMLST V1 + HierCC V1	CD630_13340(purB)	adenylosuccinate lyase
+cgMLST V1 + HierCC V1	CD630_13350(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13390(aspB)	aspartate aminotransferase
+cgMLST V1 + HierCC V1	CD630_13400(galT)	galactose-1-phosphate uridylyltransferase
+cgMLST V1 + HierCC V1	CD630_13410(exoA)	exodeoxyribonuclease III
+cgMLST V1 + HierCC V1	CD630_13420(-)	exonuclease
+cgMLST V1 + HierCC V1	CD630_13430(glnA)	glutamine synthetase catalytic domain protein
+cgMLST V1 + HierCC V1	CD630_13440(ugtP)	galactosyldiacylglycerol synthase
+cgMLST V1 + HierCC V1	CD630_13450(padR)	PadR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13460(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13470(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13480(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_13490(nisF)	lantibiotic ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_13500(nisE)	lantibiotic ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_13510(nisG)	lantibiotic ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_13520(nisK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_13530(pdxK)	pyridoxine kinase
+cgMLST V1 + HierCC V1	CD630_13540(-)	amidase
+cgMLST V1 + HierCC V1	CD630_13550(cspB)	cold-shock protein
+cgMLST V1 + HierCC V1	CD630_13560(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_13570(ppiC)	peptidylprolyl isomerase
+cgMLST V1 + HierCC V1	CD630_13580(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_13590(-)	putative Zn peptidase
+cgMLST V1 + HierCC V1	CD630_13600(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13610(-)	phage protein
+cgMLST V1 + HierCC V1	CD630_13620(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13630(-)	phage tail sheath family protein
+cgMLST V1 + HierCC V1	CD630_13640(-)	phage portal protein
+cgMLST V1 + HierCC V1	CD630_13650(-)	phage portal protein
+cgMLST V1 + HierCC V1	CD630_13651(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13660(-)	Putative phage tail protein
+cgMLST V1 + HierCC V1	CD630_13670(-)	putative phage protein
+cgMLST V1 + HierCC V1	CD630_13700(-)	phage protein
+cgMLST V1 + HierCC V1	CD630_13770(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13780(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13781(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13782(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_13790(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13800(-)	"putative ATP synthase F0, A subunit"
+cgMLST V1 + HierCC V1	CD630_13810(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13820(glpK2)	Glycerol kinase 1 (ATP:glycerol 3-phosphotransferase 1) (Glycerokinase 1) (GK 1)
+cgMLST V1 + HierCC V1	CD630_13830(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_13840(-)	LamB/YcsF family protein
+cgMLST V1 + HierCC V1	CD630_13850(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_13860(kipI)	allophanate hydrolase
+cgMLST V1 + HierCC V1	CD630_13870(kipA)	allophanate hydrolase
+cgMLST V1 + HierCC V1	CD630_13890(ycjG)	dipeptide epimerase
+cgMLST V1 + HierCC V1	CD630_13900(-)	"beta-carotene 15,15'-monooxygenase"
+cgMLST V1 + HierCC V1	CD630_13910(-)	hydrolase CocE/NonD family
+cgMLST V1 + HierCC V1	CD630_13920(-)	"endoribonuclease,Enamine/imine deaminase,putative endoribonuclease L-PSP,putative endoribonuclease L-PSP,Endoribonuclease L-PSP"
+cgMLST V1 + HierCC V1	CD630_13930(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_13940(-)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_13950(-)	regulatory YrvL family protein
+cgMLST V1 + HierCC V1	CD630_13960(dppA1)	putative amino acid amidase
+cgMLST V1 + HierCC V1	CD630_13970(-)	methyltransferase
+cgMLST V1 + HierCC V1	CD630_13980(-)	putative peptidase
+cgMLST V1 + HierCC V1	CD630_13990(ldcA)	muramoyltetrapeptide carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_14000(-)	"toxin-antitoxin system toxin component, PIN family protein"
+cgMLST V1 + HierCC V1	CD630_14010(-)	isochorismatase
+cgMLST V1 + HierCC V1	CD630_14020(glpQ)	glycerophosphoryl diester phosphodiesterase
+cgMLST V1 + HierCC V1	CD630_14030(licA)	peptide synthetase
+cgMLST V1 + HierCC V1	CD630_14040(-)	oligopeptide transporter OPT family
+cgMLST V1 + HierCC V1	CD630_14041(-)	coenzyme PQQ synthesis D family protein
+cgMLST V1 + HierCC V1	CD630_14060(-)	D-alanyl-D-alanine carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_14070(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_14080(ddl)	D-alanine--D-alanine ligase
+cgMLST V1 + HierCC V1	CD630_14090(pncC)	damage-inducible protein CinA
+cgMLST V1 + HierCC V1	CD630_14100(-)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_14110(-)	zinc dependent phospholipase C family protein
+cgMLST V1 + HierCC V1	CD630_14120(-)	AAA family ATPase
+cgMLST V1 + HierCC V1	CD630_14130(-)	eamA-like transporter family protein
+cgMLST V1 + HierCC V1	CD630_14140(-)	"Putative oxidoreductase, Fe-S subunit"
+cgMLST V1 + HierCC V1	CD630_14150(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_14160(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_14170(-)	ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_14180(-)	multidrug transporter MatE
+cgMLST V1 + HierCC V1	CD630_14190(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_14220(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_14250(mgtC)	methyltransferase
+cgMLST V1 + HierCC V1	CD630_14290(-)	acyl-CoA N-acyltransferase
+cgMLST V1 + HierCC V1	CD630_14300(pdaA)	delta-lactam-biosynthetic de-N-acetylase
+cgMLST V1 + HierCC V1	CD630_14320(rnhA)	RNase H
+cgMLST V1 + HierCC V1	CD630_14330(-)	bifunctional peroxiredoxin/chitinase
+cgMLST V1 + HierCC V1	CD630_14340(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_14350(-)	UbiD family decarboxylase
+cgMLST V1 + HierCC V1	CD630_14360(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_14380(-)	TPR repeat family protein
+cgMLST V1 + HierCC V1	CD630_14390(cidA)	lrgA family protein
+cgMLST V1 + HierCC V1	CD630_14400(lrgB)	lrgB-like family protein
+cgMLST V1 + HierCC V1	CD630_14410(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_14420(-)	MORN repeat family protein
+cgMLST V1 + HierCC V1	CD630_14430(-)	peptidase
+cgMLST V1 + HierCC V1	CD630_14440(-)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_14450(pabA)	glutamine amidotransferase
+cgMLST V1 + HierCC V1	CD630_14460(pabB)	para-aminobenzoate synthase
+cgMLST V1 + HierCC V1	CD630_14470(pabC)	aminodeoxychorismate lyase
+cgMLST V1 + HierCC V1	CD630_14480(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_14490(folE)	GTP cyclohydrolase I FolE
+cgMLST V1 + HierCC V1	CD630_14500(folP)	dihydropteroate synthase
+cgMLST V1 + HierCC V1	CD630_14510(folB)	dihydroneopterin aldolase
+cgMLST V1 + HierCC V1	CD630_14520(folK)	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_14530(aroF)	phospho-2-dehydro-3-deoxyheptonate aldolase
+cgMLST V1 + HierCC V1	CD630_14540(dnaG)	DNA primase
+cgMLST V1 + HierCC V1	CD630_14550(sigA1)	RNA polymerase sigma factor RpoD
+cgMLST V1 + HierCC V1	CD630_14560(trmK)	SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_14570(-)	NGG1p interacting factor NIF3
+cgMLST V1 + HierCC V1	CD630_14580(wrbA)	FMN reductase
+cgMLST V1 + HierCC V1	CD630_14590(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_14600(-)	phosphohydrolase
+cgMLST V1 + HierCC V1	CD630_14620(ytrA)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_14630(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_14640(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_14650(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_14660(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_14670(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_14680(-)	(Fe-S)-binding protein
+cgMLST V1 + HierCC V1	CD630_14700(-)	rhodanese-like domain-containing protein
+cgMLST V1 + HierCC V1	CD630_14710(yhgE)	putative membrane protein (putative phage infection protein)
+cgMLST V1 + HierCC V1	CD630_14720(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_14730(-)	multidrug ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_14750(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_14770(feoA)	feoA domain protein
+cgMLST V1 + HierCC V1	CD630_14780(feoA)	iron transporter FeoA
+cgMLST V1 + HierCC V1	CD630_14790(feoB1)	ferrous iron transporter B
+cgMLST V1 + HierCC V1	CD630_14800(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_14810(-)	mitochondria biogenesis AIM24 family protein
+cgMLST V1 + HierCC V1	CD630_14820(ssuC)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_14830(ssuB)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_14840(ssuA)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_14850(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_14860(-)	Putative ribosome recycling factor
+cgMLST V1 + HierCC V1	CD630_14890(metN)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_14900(metI)	methionine ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_14910(metQ)	methionine ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_14920(vicK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_14930(-)	DNA-3-methyladenine glycosylase
+cgMLST V1 + HierCC V1	CD630_14940(-)	DNA-binding protein
+cgMLST V1 + HierCC V1	CD630_14950(proC)	pyrroline-5-carboxylate reductase
+cgMLST V1 + HierCC V1	CD630_14960(-)	signal peptide protein
+cgMLST V1 + HierCC V1	CD630_14970(-)	type I restriction enzyme R family protein
+cgMLST V1 + HierCC V1	CD630_14980(sigA2)	RNA polymerase sigma factor RpoD
+cgMLST V1 + HierCC V1	CD630_15020(deoC)	2-deoxyribose-5-phosphate aldolase
+cgMLST V1 + HierCC V1	CD630_15030(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_15040(-)	multidrug ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_15050(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_15060(-)	MATE efflux family protein
+cgMLST V1 + HierCC V1	CD630_15100(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_15110(-)	Spore outer coat layer protein CotB
+cgMLST V1 + HierCC V1	CD630_15111(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_15120(panC)	pantoate--beta-alanine ligase
+cgMLST V1 + HierCC V1	CD630_15130(panB)	3-methyl-2-oxobutanoate hydroxymethyltransferase
+cgMLST V1 + HierCC V1	CD630_15140(-)	6-phosphogluconate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_15150(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_15160(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_15170(feoB)	ferrous iron transporter B
+cgMLST V1 + HierCC V1	CD630_15180(feoA)	iron transporter FeoA
+cgMLST V1 + HierCC V1	CD630_15190(elaA)	GNAT family acetyltransferase
+cgMLST V1 + HierCC V1	CD630_15200(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_15210(tyrS)	tyrosine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_15220(-)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_15230(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_15250(-)	"NAD(P)H-quinone oxidoreductase subunit I, chloroplastic"
+cgMLST V1 + HierCC V1	CD630_15260(pyrC)	dihydroorotase
+cgMLST V1 + HierCC V1	CD630_15270(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_15280(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_15290(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_15300(-)	"histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+cgMLST V1 + HierCC V1	CD630_15310(bceR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_15320(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_15340(ggt)	gamma-glutamyltransferase
+cgMLST V1 + HierCC V1	CD630_15350(sseA)	3-mercaptopyruvate sulfurtransferase
+cgMLST V1 + HierCC V1	CD630_15360(fpr)	"putative dehydrogenase, electron transfer subunit"
+cgMLST V1 + HierCC V1	CD630_15370(aspB)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_15380(-)	diguanylate phosphodiesterase
+cgMLST V1 + HierCC V1	CD630_15390(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_15400(yxdM)	ftsX-like permease
+cgMLST V1 + HierCC V1	CD630_15410(-)	MATE family efflux transporter
+cgMLST V1 + HierCC V1	CD630_15420(-)	Fic family protein
+cgMLST V1 + HierCC V1	CD630_15430(acpD)	FMN-dependent NADH-azoreductase
+cgMLST V1 + HierCC V1	CD630_15431(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_15450(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_15460(hlyIII)	hemolysin III family channel protein
+cgMLST V1 + HierCC V1	CD630_15461(-)	conserved protein of unknown function
+cgMLST V1 + HierCC V1	CD630_15470(hisZ)	ATP phosphoribosyltransferase regulatory subunit
+cgMLST V1 + HierCC V1	CD630_15480(hisG)	ATP phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_15490(hisC)	histidinol-phosphate transaminase
+cgMLST V1 + HierCC V1	CD630_15500(hisB)	imidazoleglycerol-phosphate dehydratase
+cgMLST V1 + HierCC V1	CD630_15510(hisH)	"imidazole glycerol phosphate synthase, glutamine amidotransferase subunit"
+cgMLST V1 + HierCC V1	CD630_15520(hisA)	1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase
+cgMLST V1 + HierCC V1	CD630_15530(hisF)	imidazole glycerol phosphate synthase cyclase subunit
+cgMLST V1 + HierCC V1	CD630_15540(hisI)	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase
+cgMLST V1 + HierCC V1	CD630_15550(-)	amino acid permease
+cgMLST V1 + HierCC V1	CD630_15560(-)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_15570(prsA)	peptidylprolyl isomerase
+cgMLST V1 + HierCC V1	CD630_15580(csfV)	RNA polymerase sigma factor sigV
+cgMLST V1 + HierCC V1	CD630_15590(rsiV)	"Anti Sigma Factor, ECF family"
+cgMLST V1 + HierCC V1	CD630_15610(xdhC)	xanthine dehydrogenase accessory factor
+cgMLST V1 + HierCC V1	CD630_15620(-)	WLM domain protein
+cgMLST V1 + HierCC V1	CD630_15640(-)	ACT domain protein
+cgMLST V1 + HierCC V1	CD630_15650(ilvC)	ketol-acid reductoisomerase
+cgMLST V1 + HierCC V1	CD630_15660(ilvB)	"acetolactate synthase, large subunit, biosynthetic type"
+cgMLST V1 + HierCC V1	CD630_15670(-)	manganese catalase
+cgMLST V1 + HierCC V1	CD630_15680(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_15690(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_15740(-)	GNAT family acetyltransferase
+cgMLST V1 + HierCC V1	CD630_15750(-)	3D domain protein
+cgMLST V1 + HierCC V1	CD630_15760(-)	arylesterase
+cgMLST V1 + HierCC V1	CD630_15770(pgm)	phosphoglucomutase
+cgMLST V1 + HierCC V1	CD630_15780(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_15790(vicK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_15800(hom2)	homoserine dehydrogenase
+cgMLST V1 + HierCC V1	CD630_15810(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_15820(hisD)	histidinol dehydrogenase
+cgMLST V1 + HierCC V1	CD630_15900(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_15910(kdpA)	potassium-transporting ATPase subunit KdpA
+cgMLST V1 + HierCC V1	CD630_15920(kdpB)	K+-transporting ATPase subunit B
+cgMLST V1 + HierCC V1	CD630_15930(kdpC)	potassium-transporting ATPase C chain
+cgMLST V1 + HierCC V1	CD630_15940(cysK)	cysteine synthase A
+cgMLST V1 + HierCC V1	CD630_15950(cysE)	serine O-acetyltransferase
+cgMLST V1 + HierCC V1	CD630_15951(fer)	ferredoxin
+cgMLST V1 + HierCC V1	CD630_15960(map2)	methionine aminopeptidase
+cgMLST V1 + HierCC V1	CD630_15970(zmp1)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_15990(thiD)	hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+cgMLST V1 + HierCC V1	CD630_16000(thiM)	hydroxyethylthiazole kinase
+cgMLST V1 + HierCC V1	CD630_16010(thiE)	thiamine phosphate synthase
+cgMLST V1 + HierCC V1	CD630_16020(celA)	PTS sugar transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_16030(-)	multidrug ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_16040(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_16060(ytrA)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16070(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_16090(-)	exported protein
+cgMLST V1 + HierCC V1	CD630_16100(-)	ABC-2 transporter family protein
+cgMLST V1 + HierCC V1	CD630_16140(natA)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_16170(ytrA)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16180(-)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_16190(-)	multidrug ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_16200(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_16210(mscS)	mechanosensitive ion channel protein MscS
+cgMLST V1 + HierCC V1	CD630_16220(-)	peptidase
+cgMLST V1 + HierCC V1	CD630_16230(-)	Putative oxidoreductase
+cgMLST V1 + HierCC V1	CD630_16290(-)	SNARE-like domain protein
+cgMLST V1 + HierCC V1	CD630_16300(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_16310(sodA)	superoxide dismutase
+cgMLST V1 + HierCC V1	CD630_16320(asnB)	asparagine synthetase B
+cgMLST V1 + HierCC V1	CD630_16330(degP)	serine protease
+cgMLST V1 + HierCC V1	CD630_16340(terD)	chemical-damaging agent resistance protein C
+cgMLST V1 + HierCC V1	CD630_16350(terD)	chemical-damaging agent resistance protein C
+cgMLST V1 + HierCC V1	CD630_16360(terD)	stress protein
+cgMLST V1 + HierCC V1	CD630_16370(-)	"calcium-translocating P-type ATPase, PMCA-type"
+cgMLST V1 + HierCC V1	CD630_16390(-)	toxic anion resistance family protein
+cgMLST V1 + HierCC V1	CD630_16400(-)	ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_16410(-)	phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_16420(-)	cysteine protease StiP precursor
+cgMLST V1 + HierCC V1	CD630_16430(-)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_16440(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16450(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_16460(dpeP)	membrane dipeptidase
+cgMLST V1 + HierCC V1	CD630_16470(-)	iron ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_16480(-)	iron ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_16490(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_16500(-)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_16520(terA)	tellurium resistance family protein
+cgMLST V1 + HierCC V1	CD630_16530(metQ)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_16540(lplA)	lipoyltransferase and lipoate-ligase
+cgMLST V1 + HierCC V1	CD630_16550(-)	Na+/H+ antiporter NhaC-like
+cgMLST V1 + HierCC V1	CD630_16570(gcvTPA)	bi-functional glycine dehydrogenase/aminomethyl transferase
+cgMLST V1 + HierCC V1	CD630_16580(gcvPB)	glycine dehydrogenase (aminomethyl-transferring)
+cgMLST V1 + HierCC V1	CD630_16590(ctpE)	cation-transporting ATPase
+cgMLST V1 + HierCC V1	CD630_16600(-)	DUF1255 domain-containing protein
+cgMLST V1 + HierCC V1	CD630_16640(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16650(cysM)	pyridoxal-phosphate dependent enzyme family protein
+cgMLST V1 + HierCC V1	CD630_16680(-)	ABC-2 transporter family protein
+cgMLST V1 + HierCC V1	CD630_16740(-)	FMN reductase
+cgMLST V1 + HierCC V1	CD630_16750(-)	HxlR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16760(pcp)	pyrrolidone-carboxylate peptidase
+cgMLST V1 + HierCC V1	CD630_16770(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_16780(-)	"putative ATP synthase F0, A subunit"
+cgMLST V1 + HierCC V1	CD630_16790(hemG)	flavodoxin
+cgMLST V1 + HierCC V1	CD630_16800(-)	FMN-binding protein
+cgMLST V1 + HierCC V1	CD630_16820(iunH)	inosine-uridine preferring nucleoside hydrolase
+cgMLST V1 + HierCC V1	CD630_16830(qrtT)	membrane protein
+cgMLST V1 + HierCC V1	CD630_16840(-)	radical SAM superfamily protein
+cgMLST V1 + HierCC V1	CD630_16850(-)	DNA alkylation repair enzyme family protein
+cgMLST V1 + HierCC V1	CD630_16860(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16870(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_16880(ciaR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_16890(ciaH)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_16900(trxA)	thiol reductase thioredoxin
+cgMLST V1 + HierCC V1	CD630_16910(trxB)	thioredoxin reductase
+cgMLST V1 + HierCC V1	CD630_16920(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_16930(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_16940(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_16950(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_16960(-)	sodium:alanine symporter
+cgMLST V1 + HierCC V1	CD630_16970(ribH)	"6,7-dimethyl-8-ribityllumazine synthase"
+cgMLST V1 + HierCC V1	CD630_16980(ribBA)	GTP cyclohydrolase II
+cgMLST V1 + HierCC V1	CD630_16990(ribE)	riboflavin synthase subunit alpha
+cgMLST V1 + HierCC V1	CD630_17000(ribD)	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase
+cgMLST V1 + HierCC V1	CD630_17010(recQ)	ATP-dependent DNA helicase RecQ
+cgMLST V1 + HierCC V1	CD630_17020(thiC)	phosphomethylpyrimidine synthase
+cgMLST V1 + HierCC V1	CD630_17021(thiS)	thiamine biosynthesis protein ThiS
+cgMLST V1 + HierCC V1	CD630_17030(thiF)	Thiamine biosynthesis protein ThiF
+cgMLST V1 + HierCC V1	CD630_17040(thiG)	thiazole synthase
+cgMLST V1 + HierCC V1	CD630_17050(thiH)	thiamine biosynthesis protein ThiH
+cgMLST V1 + HierCC V1	CD630_17060(thiE2)	thiamine phosphate synthase
+cgMLST V1 + HierCC V1	CD630_17070(-)	C4-dicarboxylate ABC transporter
+cgMLST V1 + HierCC V1	CD630_17080(-)	GTP pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_17090(mobA)	molybdenum cofactor guanylyltransferase
+cgMLST V1 + HierCC V1	CD630_17100(-)	coA binding domain protein
+cgMLST V1 + HierCC V1	CD630_17110(-)	heavy-metal-binding family protein
+cgMLST V1 + HierCC V1	CD630_17120(moaB)	molybdenum cofactor biosynthesis protein
+cgMLST V1 + HierCC V1	CD630_17130(moaA)	cyclic pyranopterin phosphate synthase MoaA
+cgMLST V1 + HierCC V1	CD630_17140(moaC)	cyclic pyranopterin monophosphate synthase accessory protein
+cgMLST V1 + HierCC V1	CD630_17150(-)	MOSC domain protein
+cgMLST V1 + HierCC V1	CD630_17151(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17160(codB)	permease
+cgMLST V1 + HierCC V1	CD630_17170(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17220(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_17230(plsC)	acyltransferase
+cgMLST V1 + HierCC V1	CD630_17240(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17250(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_17260(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17281(-)	peptide ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_17290(yjbB)	Na/Pi cotransporter
+cgMLST V1 + HierCC V1	CD630_17292(-)	arginyl-tRNA synthetase
+cgMLST V1 + HierCC V1	CD630_17300(mrp)	sodium:proton antiporter
+cgMLST V1 + HierCC V1	CD630_17310(-)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_17320(metH)	5-methyltetrahydrofolate--homocysteine S-methyltransferase
+cgMLST V1 + HierCC V1	CD630_17330(hemE)	uroporphyrinogen decarboxylase
+cgMLST V1 + HierCC V1	CD630_17350(-)	"noncanonical pyrimidine nucleotidase, YjjG family"
+cgMLST V1 + HierCC V1	CD630_17360(-)	DNA-binding protein
+cgMLST V1 + HierCC V1	CD630_17370(-)	putative gluconate permease
+cgMLST V1 + HierCC V1	CD630_17380(-)	sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_17390(atoC)	sigma-54-dependent Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_17400(-)	beta-aspartyl-peptidase
+cgMLST V1 + HierCC V1	CD630_17451(feoA)	iron transporter FeoA
+cgMLST V1 + HierCC V1	CD630_17460(gltC)	sodium:glutamate symporter
+cgMLST V1 + HierCC V1	CD630_17470(add)	adenosine deaminase
+cgMLST V1 + HierCC V1	CD630_17490(-)	2-hydroxyglutaryl-CoA dehydratase
+cgMLST V1 + HierCC V1	CD630_17500(-)	2-hydroxyglutaryl-CoA dehydratase
+cgMLST V1 + HierCC V1	CD630_17510(-)	cysteine protease
+cgMLST V1 + HierCC V1	CD630_17511(-)	ATPase
+cgMLST V1 + HierCC V1	CD630_17520(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_17550(-)	"ABC-type transport system, multidrug-family permease"
+cgMLST V1 + HierCC V1	CD630_17551(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_17590(-)	Putative SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_17600(-)	iron-sulfur protein
+cgMLST V1 + HierCC V1	CD630_17620(-)	DUF2992 domain-containing protein
+cgMLST V1 + HierCC V1	CD630_17630(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_17640(-)	tRNA synthetase subunit beta
+cgMLST V1 + HierCC V1	CD630_17650(nudF)	NUDIX hydrolase
+cgMLST V1 + HierCC V1	CD630_17670(gapB)	type I glyceraldehyde-3-phosphate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_17671(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17690(-)	2-hydroxyglutaryl-CoA dehydratase
+cgMLST V1 + HierCC V1	CD630_17700(ogt2)	methylated-DNA--protein-cysteine methyltransferase constitutive
+cgMLST V1 + HierCC V1	CD630_17710(-)	monooxygenase
+cgMLST V1 + HierCC V1	CD630_17730(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17740(-)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_17750(-)	amino acid ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_17760(-)	polar amino acid ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_17770(arsC)	arsenate reductase
+cgMLST V1 + HierCC V1	CD630_17780(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17790(-)	adenine nucleotide alpha hydrolase
+cgMLST V1 + HierCC V1	CD630_17800(ypsC)	N-6 DNA methylase
+cgMLST V1 + HierCC V1	CD630_17820(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_17830(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_17840(truA2)	"tRNA pseudouridine(38,39,40) synthase TruA"
+cgMLST V1 + HierCC V1	CD630_17850(argG)	argininosuccinate synthase
+cgMLST V1 + HierCC V1	CD630_17870(-)	merR regulatory family protein
+cgMLST V1 + HierCC V1	CD630_17880(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17890(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_17910(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17920(-)	UDP-glucose 4-epimerase
+cgMLST V1 + HierCC V1	CD630_17930(-)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_17940(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_17950(-)	molecular chaperone Tir
+cgMLST V1 + HierCC V1	CD630_17960(-)	sulfite reductase subunit C
+cgMLST V1 + HierCC V1	CD630_17970(-)	pyridine nucleotide-disulfide oxidoreductase
+cgMLST V1 + HierCC V1	CD630_17980(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_18000(terD)	chemical-damaging agent resistance protein C
+cgMLST V1 + HierCC V1	CD630_18010(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_18020(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_18070(-)	FMN reductase
+cgMLST V1 + HierCC V1	CD630_18130(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_18140(gpmB)	phosphoglycerate mutase
+cgMLST V1 + HierCC V1	CD630_18150(-)	pyridine nucleotide-disulfide oxidoreductase
+cgMLST V1 + HierCC V1	CD630_18160(cmk)	cytidylate kinase
+cgMLST V1 + HierCC V1	CD630_18170(plsC)	acyltransferase
+cgMLST V1 + HierCC V1	CD630_18180(ispH)	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+cgMLST V1 + HierCC V1	CD630_18190(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_18220(bcp)	peroxiredoxin
+cgMLST V1 + HierCC V1	CD630_18230(-)	DUF328 domain-containing protein
+cgMLST V1 + HierCC V1	CD630_18240(-)	P-type calcium transport ATPase
+cgMLST V1 + HierCC V1	CD630_18250(metY)	O-acetylhomoserine aminocarboxypropyltransferase
+cgMLST V1 + HierCC V1	CD630_18260(metA)	homoserine O-succinyltransferase
+cgMLST V1 + HierCC V1	CD630_18270(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_18280(ftsH1)	ATP-dependent metallopeptidase HflB family protein
+cgMLST V1 + HierCC V1	CD630_18300(kdpE)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_18310(corA)	corA-like Mg2+ transporter family protein
+cgMLST V1 + HierCC V1	CD630_18311(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_18320(aroF)	3-deoxy-7-phosphoheptulonate synthase
+cgMLST V1 + HierCC V1	CD630_18330(aroB)	3-dehydroquinate synthase
+cgMLST V1 + HierCC V1	CD630_18340(aroA)	3-phosphoshikimate 1-carboxyvinyltransferase
+cgMLST V1 + HierCC V1	CD630_18350(aroC)	Chorismate synthase (5-enolpyruvylshikimate-3-phosphate phospholyase)
+cgMLST V1 + HierCC V1	CD630_18360(pheA)	bifunctional chorismate mutase/prephenate dehydratase
+cgMLST V1 + HierCC V1	CD630_18370(aroE1)	shikimate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_18380(aroK)	shikimate kinase
+cgMLST V1 + HierCC V1	CD630_18390(tyrC)	prephenate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_18800(-)	cupin domain protein
+cgMLST V1 + HierCC V1	CD630_18930(prdX)	Putative oligonucleotide binding regulator
+cgMLST V1 + HierCC V1	CD630_18940(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_18950(-)	ytxH-like family protein
+cgMLST V1 + HierCC V1	CD630_18960(-)	putative lipoprotein
+cgMLST V1 + HierCC V1	CD630_18980(amiA)	cell wall hydrolase
+cgMLST V1 + HierCC V1	CD630_18990(comEB)	cytidine and deoxycytidylate deaminase zinc-binding region
+cgMLST V1 + HierCC V1	CD630_19000(-)	"ABC-type transport system,ATP-binding protein"
+cgMLST V1 + HierCC V1	CD630_19040(-)	sulfonate ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_19280(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_19290(-)	ompA family membrane protein
+cgMLST V1 + HierCC V1	CD630_19310(lexA)	LexA repressor
+cgMLST V1 + HierCC V1	CD630_19320(-)	phage integrase
+cgMLST V1 + HierCC V1	CD630_19340(-)	amino acid-binding protein
+cgMLST V1 + HierCC V1	CD630_19350(spoVS)	stage V sporulation protein S
+cgMLST V1 + HierCC V1	CD630_19360(accA)	acetyl-CoA carboxylase carboxyltransferase subunit alpha
+cgMLST V1 + HierCC V1	CD630_19370(accD)	acetyl-CoA carboxylase carboxyl transferase subunit beta
+cgMLST V1 + HierCC V1	CD630_19380(accC)	acetyl-CoA carboxylase biotin carboxylase subunit
+cgMLST V1 + HierCC V1	CD630_19390(accB)	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit
+cgMLST V1 + HierCC V1	CD630_19400(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_19401(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_19410(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_19420(trmB)	tRNA (guanosine(46)-N7)-methyltransferase TrmB
+cgMLST V1 + HierCC V1	CD630_19430(-)	Fe-S cluster assembly protein HesB
+cgMLST V1 + HierCC V1	CD630_19470(-)	macrolide ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_19480(-)	"ABC-type transport system, permease"
+cgMLST V1 + HierCC V1	CD630_19500(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_19510(rimJ)	"acetyltransferase, GNAT family"
+cgMLST V1 + HierCC V1	CD630_19520(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_19530(-)	gamma-glutamyl ligase
+cgMLST V1 + HierCC V1	CD630_19550(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_19560(phoR)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_19570(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_19580(-)	4Fe-4S ferredoxin
+cgMLST V1 + HierCC V1	CD630_19590(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_19600(-)	his Kinase A domain protein
+cgMLST V1 + HierCC V1	CD630_19610(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_19630(-)	SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_19640(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_19650(-)	permease
+cgMLST V1 + HierCC V1	CD630_19670(-)	kae1-associated kinase
+cgMLST V1 + HierCC V1	CD630_19680(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_19700(-)	cyclase
+cgMLST V1 + HierCC V1	CD630_19710(-)	SIR2-like domain protein
+cgMLST V1 + HierCC V1	CD630_19720(dapE)	peptidase M20
+cgMLST V1 + HierCC V1	CD630_19730(-)	aluminum resistance protein
+cgMLST V1 + HierCC V1	CD630_19740(hfq)	RNA-binding protein Hfq
+cgMLST V1 + HierCC V1	CD630_19750(miaA)	tRNA dimethylallyltransferase
+cgMLST V1 + HierCC V1	CD630_19760(mutL)	DNA mismatch repair MutL family protein
+cgMLST V1 + HierCC V1	CD630_19770(mutS)	DNA mismatch repair protein MutS
+cgMLST V1 + HierCC V1	CD630_19780(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_19790(-)	nitrate ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_19800(thiX)	nitrate ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_19801(-)	Uncharacterized conserved protein
+cgMLST V1 + HierCC V1	CD630_19840(-)	coenzyme A pyrophosphatase
+cgMLST V1 + HierCC V1	CD630_19850(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_19860(miaB)	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase MiaB
+cgMLST V1 + HierCC V1	CD630_19870(-)	cell wall-binding repeat 2 family protein
+cgMLST V1 + HierCC V1	CD630_19880(-)	tryptophan transporter
+cgMLST V1 + HierCC V1	CD630_19900(-)	SH3 domain protein
+cgMLST V1 + HierCC V1	CD630_19921(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_19941(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_19942(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_19960(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_19990(fldX)	flavodoxin
+cgMLST V1 + HierCC V1	CD630_20000(isp)	major intracellular serine protease
+cgMLST V1 + HierCC V1	CD630_20140(ilvD)	dihydroxy-acid dehydratase
+cgMLST V1 + HierCC V1	CD630_20141(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20200(clpB)	ATP-dependent chaperone ClpB
+cgMLST V1 + HierCC V1	CD630_20210(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20220(-)	firmicute plasmid replication protein
+cgMLST V1 + HierCC V1	CD630_20230(ytrA)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_20240(-)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_20250(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_20290(-)	lumazine-binding domain protein
+cgMLST V1 + HierCC V1	CD630_20300(argF)	ornithine carbamoyltransferase
+cgMLST V1 + HierCC V1	CD630_20310(argM)	acetylornithine aminotransferase
+cgMLST V1 + HierCC V1	CD630_20320(argB)	acetylglutamate kinase
+cgMLST V1 + HierCC V1	CD630_20330(argJ)	arginine biosynthesis protein ArgJ
+cgMLST V1 + HierCC V1	CD630_20340(argC)	N-acetyl-gamma-glutamyl-phosphate reductase
+cgMLST V1 + HierCC V1	CD630_20420(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_20430(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_20480(-)	RpiR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_20490(-)	SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_20500(rluB)	ribosomal large subunit pseudouridine synthase B
+cgMLST V1 + HierCC V1	CD630_20510(-)	AI-2E family transporter
+cgMLST V1 + HierCC V1	CD630_20520(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_20530(lysA)	diaminopimelate decarboxylase
+cgMLST V1 + HierCC V1	CD630_20540(lysC)	aspartate kinase
+cgMLST V1 + HierCC V1	CD630_20541(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20550(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20560(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_20570(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20580(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20590(glnS)	glutamine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_20600(dagK)	lipid kinase
+cgMLST V1 + HierCC V1	CD630_20610(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_20620(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20630(-)	cell wall-binding protein YocH precursor
+cgMLST V1 + HierCC V1	CD630_20640(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_20650(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_20660(-)	integrase
+cgMLST V1 + HierCC V1	CD630_20670(-)	putative exported protein
+cgMLST V1 + HierCC V1	CD630_20680(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_20690(-)	molybdopterin binding domain protein
+cgMLST V1 + HierCC V1	CD630_20700(mocA)	molybdenum cofactor cytidylyltransferase
+cgMLST V1 + HierCC V1	CD630_20710(-)	selenium-dependent hydroxylase accessory protein YqeC
+cgMLST V1 + HierCC V1	CD630_20720(-)	transposase
+cgMLST V1 + HierCC V1	CD630_20730(xdhA)	Xanthine dehydrogenase molybdenum-binding subunit
+cgMLST V1 + HierCC V1	CD630_20740(-)	FAD-binding subunit of xanthine dehydrogenase dehydrogenase
+cgMLST V1 + HierCC V1	CD630_20750(pbuX)	xanthine permease
+cgMLST V1 + HierCC V1	CD630_20751(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20770(pyrD)	dihydroorotate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_20780(mtaD)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_20790(xdhA)	Xanthine dehydrogenase molybdenum-binding subunit
+cgMLST V1 + HierCC V1	CD630_20800(-)	FAD-binding subunit of xanthine dehydrogenase dehydrogenase
+cgMLST V1 + HierCC V1	CD630_20810(xdhC1)	xanthine dehydrogenase iron-sulfur binding subunit
+cgMLST V1 + HierCC V1	CD630_20820(mtaD)	probable amidohydrolase
+cgMLST V1 + HierCC V1	CD630_20830(dht)	dihydropyrimidinase
+cgMLST V1 + HierCC V1	CD630_20860(-)	NAD(FAD)-dependent dehydrogenase
+cgMLST V1 + HierCC V1	CD630_20870(ygeS)	xanthine dehydrogenase
+cgMLST V1 + HierCC V1	CD630_20880(xdhC2)	xanthine dehydrogenase
+cgMLST V1 + HierCC V1	CD630_20890(mtaD)	metal-dependent hydrolase
+cgMLST V1 + HierCC V1	CD630_20900(-)	putative xanthine/uracile permease
+cgMLST V1 + HierCC V1	CD630_20910(-)	putative xanthine/uracile permease
+cgMLST V1 + HierCC V1	CD630_20920(-)	ATPase AAA
+cgMLST V1 + HierCC V1	CD630_20940(mcrB)	restriction endonuclease
+cgMLST V1 + HierCC V1	CD630_20950(-)	cell division protein FtsZ
+cgMLST V1 + HierCC V1	CD630_20960(-)	DeoR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_20970(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_20980(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_20990(xdhA)	molybdopterin-binding domain of aldehyde dehydrogenase
+cgMLST V1 + HierCC V1	CD630_21000(xdhC)	(2Fe-2S)-binding protein
+cgMLST V1 + HierCC V1	CD630_21010(xdhB)	molybdopterin dehydrogenase
+cgMLST V1 + HierCC V1	CD630_21020(-)	sodium:proton antiporter
+cgMLST V1 + HierCC V1	CD630_21021(-)	putative dNA polymerase III
+cgMLST V1 + HierCC V1	CD630_21030(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_21040(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_21050(-)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_21060(deaD)	ATP-dependent RNA helicase
+cgMLST V1 + HierCC V1	CD630_21070(pbuG)	adenine permease
+cgMLST V1 + HierCC V1	CD630_21090(-)	sodium:cation symporter
+cgMLST V1 + HierCC V1	CD630_21100(talA)	fructose-6-phosphate aldolase
+cgMLST V1 + HierCC V1	CD630_21110(glpR)	DeoR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_21120(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_21130(vicK)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_21140(vanRB)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_21150(copA)	copper-transporting P-type ATPase
+cgMLST V1 + HierCC V1	CD630_21151(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_21152(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_21160(bipA)	GTP-binding protein
+cgMLST V1 + HierCC V1	CD630_21170(trxB)	thioredoxin-disulfide reductase
+cgMLST V1 + HierCC V1	CD630_21180(thrC)	threonine synthase
+cgMLST V1 + HierCC V1	CD630_21190(thrB)	homoserine kinase
+cgMLST V1 + HierCC V1	CD630_21200(-)	2-nitropropane dioxygenase
+cgMLST V1 + HierCC V1	CD630_21210(-)	flavin reductase
+cgMLST V1 + HierCC V1	CD630_21220(corA)	corA-like Mg2+ transporter family protein
+cgMLST V1 + HierCC V1	CD630_21230(-)	TPR repeat family protein
+cgMLST V1 + HierCC V1	CD630_21240(-)	transporter
+cgMLST V1 + HierCC V1	CD630_21250(yhhY)	GNAT family acetyltransferase
+cgMLST V1 + HierCC V1	CD630_21251(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_21280(ispG)	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+cgMLST V1 + HierCC V1	CD630_21290(rseP)	RIP metalloprotease RseP
+cgMLST V1 + HierCC V1	CD630_21300(dxr)	1-deoxy-D-xylulose-5-phosphate reductoisomerase
+cgMLST V1 + HierCC V1	CD630_21320(dcm)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_21350(cdsA)	phosphatidate cytidylyltransferase
+cgMLST V1 + HierCC V1	CD630_21360(uppS)	isoprenyl transferase
+cgMLST V1 + HierCC V1	CD630_21361(-)	ribosome recycling factor
+cgMLST V1 + HierCC V1	CD630_21370(frr)	ribosome recycling factor
+cgMLST V1 + HierCC V1	CD630_21380(pyrH)	UMP kinase
+cgMLST V1 + HierCC V1	CD630_21390(tsf)	elongation factor Ts
+cgMLST V1 + HierCC V1	CD630_21400(rpsB)	30S ribosomal protein S2
+cgMLST V1 + HierCC V1	CD630_21410(dacC)	serine-type D-Ala-D-Ala carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_21420(-)	transporter
+cgMLST V1 + HierCC V1	CD630_21430(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_21440(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_21450(-)	mannonate oxidoreductase
+cgMLST V1 + HierCC V1	CD630_21460(rtcB)	RNA ligase RtcB family protein
+cgMLST V1 + HierCC V1	CD630_21480(prkC)	tyrosine kinase
+cgMLST V1 + HierCC V1	CD630_21490(-)	peptidoglycan binding domain protein
+cgMLST V1 + HierCC V1	CD630_21500(-)	endonuclease
+cgMLST V1 + HierCC V1	CD630_21501(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_21510(-)	"Putative membrane protein, DUF819 family"
+cgMLST V1 + HierCC V1	CD630_21520(-)	M42 glutamyl aminopeptidase
+cgMLST V1 + HierCC V1	CD630_21530(-)	iron-only hydrogenase system regulator
+cgMLST V1 + HierCC V1	CD630_21540(-)	[FeFe] hydrogenase H-cluster maturation GTPase HydF
+cgMLST V1 + HierCC V1	CD630_21550(bioB)	[FeFe] hydrogenase H-cluster radical SAM maturase HydE
+cgMLST V1 + HierCC V1	CD630_21560(thiH)	[FeFe] hydrogenase H-cluster radical SAM maturase HydG
+cgMLST V1 + HierCC V1	CD630_21570(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_21580(gabT)	aspartate aminotransferase family protein
+cgMLST V1 + HierCC V1	CD630_21590(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_21610(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_21630(alaS)	threonyl and Alanyl tRNA synthetase second additional domain protein
+cgMLST V1 + HierCC V1	CD630_21640(ldh)	L-lactate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_21650(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_21660(msrAB)	peptide-methionine (S)-S-oxide reductase
+cgMLST V1 + HierCC V1	CD630_21670(-)	patatin-like phospholipase
+cgMLST V1 + HierCC V1	CD630_21680(hcp)	hydroxylamine reductase
+cgMLST V1 + HierCC V1	CD630_21690(-)	(Fe-S)-binding protein
+cgMLST V1 + HierCC V1	CD630_21700(-)	Crp/Fnr family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_21780(ynfG)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_21790(fdoG)	formate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_21810(menH)	alpha/beta hydrolase
+cgMLST V1 + HierCC V1	CD630_21830(csdA)	ATP-dependent RNA helicase DbpA
+cgMLST V1 + HierCC V1	CD630_21850(-)	conserved repeat domain protein
+cgMLST V1 + HierCC V1	CD630_21870(-)	glucosaminidase
+cgMLST V1 + HierCC V1	CD630_21900(cd)	cyclomaltodextrinase (maltogenic alpha-amylase)
+cgMLST V1 + HierCC V1	CD630_21910(-)	phosphoesterase
+cgMLST V1 + HierCC V1	CD630_21920(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_21940(glk)	putative regulator of a specific sugar metabolism
+cgMLST V1 + HierCC V1	CD630_21950(ftnA)	ferritin
+cgMLST V1 + HierCC V1	CD630_21960(yfiQ)	acetyl-CoA synthetase
+cgMLST V1 + HierCC V1	CD630_21970(korC)	2-oxoacid:ferredoxin oxidoreductase subunit gamma
+cgMLST V1 + HierCC V1	CD630_21980(korB)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_21990(korA)	3-methyl-2-oxobutanoate dehydrogenase subunit VorB
+cgMLST V1 + HierCC V1	CD630_21991(korD)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_22010(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_22020(putP)	sodium:solute symporter
+cgMLST V1 + HierCC V1	CD630_22030(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22040(estA)	esterase
+cgMLST V1 + HierCC V1	CD630_22050(-)	AI-2E family transporter
+cgMLST V1 + HierCC V1	CD630_22060(aldH)	aldehyde dehydrogenase
+cgMLST V1 + HierCC V1	CD630_22090(hflX)	GTPase HflX
+cgMLST V1 + HierCC V1	CD630_22100(-)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_22110(-)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_22120(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22130(cynT)	carbonic anhydrase
+cgMLST V1 + HierCC V1	CD630_22140(SinR)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22150(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22160(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_22170(aroD)	3-dehydroquinase
+cgMLST V1 + HierCC V1	CD630_22270(-)	radical SAM protein
+cgMLST V1 + HierCC V1	CD630_22280(-)	thioesterase
+cgMLST V1 + HierCC V1	CD630_22290(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_22300(nirC)	nitrite transporter NirC
+cgMLST V1 + HierCC V1	CD630_22310(asrC)	sulfite reductase subunit C
+cgMLST V1 + HierCC V1	CD630_22320(asrB)	anaerobic sulfite reductase subunit B
+cgMLST V1 + HierCC V1	CD630_22330(asrA)	anaerobic sulfite reductase subunit A
+cgMLST V1 + HierCC V1	CD630_22340(-)	Crp/Fnr family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22350(-)	RpiR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22360(glk)	ROK family protein
+cgMLST V1 + HierCC V1	CD630_22370(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_22380(-)	YhcH/YjgK/YiaL family protein
+cgMLST V1 + HierCC V1	CD630_22390(-)	sodium:solute symporter
+cgMLST V1 + HierCC V1	CD630_22400(nanA)	N-acetylneuraminate lyase
+cgMLST V1 + HierCC V1	CD630_22410(nanE)	N-acetylmannosamine-6-phosphate 2-epimerase
+cgMLST V1 + HierCC V1	CD630_22420(-)	double zinc ribbon family protein
+cgMLST V1 + HierCC V1	CD630_22430(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_22450(asnC)	asparagine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_22451(-)	Domain of uncharacterised function (DUF3787)
+cgMLST V1 + HierCC V1	CD630_22460(cspC)	peptidase S8
+cgMLST V1 + HierCC V1	CD630_22470(cspBA)	Subtilisin-like serine germination related protease
+cgMLST V1 + HierCC V1	CD630_22480(-)	VWA domain containing CoxE-like family protein
+cgMLST V1 + HierCC V1	CD630_22490(-)	ATPase
+cgMLST V1 + HierCC V1	CD630_22500(-)	AI-2E family transporter
+cgMLST V1 + HierCC V1	CD630_22510(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_22520(kamA)	"glutamate 2,3-aminomutase"
+cgMLST V1 + HierCC V1	CD630_22550(-)	bacterial Ig-like domain family protein
+cgMLST V1 + HierCC V1	CD630_22560(-)	PTS sugar transporter subunit IID
+cgMLST V1 + HierCC V1	CD630_22580(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_22590(-)	cupin
+cgMLST V1 + HierCC V1	CD630_22600(-)	H+ symporter family protein
+cgMLST V1 + HierCC V1	CD630_22610(pepP)	peptidase M24
+cgMLST V1 + HierCC V1	CD630_22620(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_22630(prsA)	peptidyl-prolyl cis-trans isomerase
+cgMLST V1 + HierCC V1	CD630_22640(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_22650(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_22660(-)	FAD-binding protein
+cgMLST V1 + HierCC V1	CD630_22690(fruABC)	PTS fructose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_22700(fruK)	1-phosphofructokinase
+cgMLST V1 + HierCC V1	CD630_22720(-)	protein-tyrosine-phosphatase
+cgMLST V1 + HierCC V1	CD630_22730(-)	sporulation integral membrane protein YtvI
+cgMLST V1 + HierCC V1	CD630_22740(-)	flagellar protein FliS
+cgMLST V1 + HierCC V1	CD630_22750(topB2)	DNA topoisomerase III
+cgMLST V1 + HierCC V1	CD630_22760(-)	sodium:alanine symporter
+cgMLST V1 + HierCC V1	CD630_22770(fucA)	class II aldolase/adducin
+cgMLST V1 + HierCC V1	CD630_22780(araD)	L-ribulose-5-phosphate 4-epimerase
+cgMLST V1 + HierCC V1	CD630_22790(gutB)	galactitol-1-phosphate 5-dehydrogenase
+cgMLST V1 + HierCC V1	CD630_22800(gatC)	PTS galactitol transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_22810(gatB)	PTS fructose transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_22820(gatA)	PTS fructose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_22830(-)	"transcription antiterminator, PTS operon regulator"
+cgMLST V1 + HierCC V1	CD630_22850(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_22860(-)	transporter
+cgMLST V1 + HierCC V1	CD630_22870(-)	transporter
+cgMLST V1 + HierCC V1	CD630_22880(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_22890(-)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_23110(modA)	molybdenum ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_23130(potA)	molybdate ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_23140(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_23150(-)	GlcNAc-PI de-N-acetylase
+cgMLST V1 + HierCC V1	CD630_23160(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_23180(pgm)	phosphoglucomutase
+cgMLST V1 + HierCC V1	CD630_23190(rpe)	ribulose-phosphate 3-epimerase
+cgMLST V1 + HierCC V1	CD630_23200(rpiB1)	ribose 5-phosphate isomerase B
+cgMLST V1 + HierCC V1	CD630_23210(tktA)	transketolase
+cgMLST V1 + HierCC V1	CD630_23230(gutB)	zinc-binding dehydrogenase
+cgMLST V1 + HierCC V1	CD630_23240(gutB)	galactitol-1-phosphate 5-dehydrogenase
+cgMLST V1 + HierCC V1	CD630_23250(gatC)	PTS galactitol transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_23270(gatA)	PTS fructose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_23280(-)	"transcription antiterminator, PTS operon regulator"
+cgMLST V1 + HierCC V1	CD630_23290(tal)	transaldolase
+cgMLST V1 + HierCC V1	CD630_23300(xpt)	xanthine phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_23310(mtlD)	mannitol-1-phosphate 5-dehydrogenase
+cgMLST V1 + HierCC V1	CD630_23320(mtlF)	PTS mannose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_23330(mtlR)	"transcription antiterminator, PTS operon regulator"
+cgMLST V1 + HierCC V1	CD630_23340(mtlA)	PTS mannitol transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_23350(guaB)	inosine-5-monophosphate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_23360(-)	toxic anion resistance family protein
+cgMLST V1 + HierCC V1	CD630_23370(-)	5-bromo-4-chloroindolyl phosphate hydrolysis family protein
+cgMLST V1 + HierCC V1	CD630_23380(4hbD)	4-hydroxybutyrate dehydrogenase (4-hydroxyalkanoate:NAD+ oxidoreductase)
+cgMLST V1 + HierCC V1	CD630_23390(cat2)	4-hydroxybutyrate CoA-transferase
+cgMLST V1 + HierCC V1	CD630_23400(-)	4-hydroxybutyrate:acetyl-CoA CoA transferase
+cgMLST V1 + HierCC V1	CD630_23410(abfD)	4-hydroxybutyryl-CoA dehydratase
+cgMLST V1 + HierCC V1	CD630_23420(sucD)	succinate-semialdehyde dehydrogenase (NAD(P)+)
+cgMLST V1 + HierCC V1	CD630_23430(cat1)	succinate CoA transferase
+cgMLST V1 + HierCC V1	CD630_23440(-)	aspT/YidE/YbjL antiporter duplication domain protein
+cgMLST V1 + HierCC V1	CD630_23450(oxyR)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_23460(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_23470(pepP)	Xaa-Pro dipeptidase
+cgMLST V1 + HierCC V1	CD630_23480(grdD)	glycine/betaine reductase C
+cgMLST V1 + HierCC V1	CD630_23490(grdC)	"glycine reductase complex component C, beta subunit"
+cgMLST V1 + HierCC V1	CD630_23540(grdE)	glycine reductase complex component B subunits alpha and beta
+cgMLST V1 + HierCC V1	CD630_23550(trxA2)	thiol reductase thioredoxin
+cgMLST V1 + HierCC V1	CD630_23560(trxB3)	thioredoxin-disulfide reductase
+cgMLST V1 + HierCC V1	CD630_23570(grdX)	glycine reductase complex protein
+cgMLST V1 + HierCC V1	CD630_23580(-)	M3 family oligoendopeptidase
+cgMLST V1 + HierCC V1	CD630_23590(-)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_23700(nadC)	nicotinate-nucleotide diphosphorylase (carboxylating)
+cgMLST V1 + HierCC V1	CD630_23710(nadB)	L-aspartate oxidase
+cgMLST V1 + HierCC V1	CD630_23720(nadA)	quinolinate synthase
+cgMLST V1 + HierCC V1	CD630_23730(-)	carbon starvation CstA family protein
+cgMLST V1 + HierCC V1	CD630_23740(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_23750(-)	Domain of Unknown Function (DUF1540)
+cgMLST V1 + HierCC V1	CD630_23760(-)	AI-2E family transporter
+cgMLST V1 + HierCC V1	CD630_23770(-)	NUDIX hydrolase
+cgMLST V1 + HierCC V1	CD630_23780(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_23790(buk)	butyrate kinase
+cgMLST V1 + HierCC V1	CD630_23800(iorB)	indolepyruvate oxidoreductase
+cgMLST V1 + HierCC V1	CD630_23810(iorA)	indolepyruvate ferredoxin oxidoreductase subunit alpha
+cgMLST V1 + HierCC V1	CD630_23820(tyrB)	aminotransferase class I and II
+cgMLST V1 + HierCC V1	CD630_23830(prpR)	Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_23860(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_23861(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_23930(mrcA)	transglycosylase
+cgMLST V1 + HierCC V1	CD630_23940(polC)	DNA polymerase III subunit epsilon
+cgMLST V1 + HierCC V1	CD630_23960(-)	flavin reductase
+cgMLST V1 + HierCC V1	CD630_23970(-)	putative exonuclease
+cgMLST V1 + HierCC V1	CD630_23980(-)	tRNA 2-thiocytidine biosynthesis protein TtcA
+cgMLST V1 + HierCC V1	CD630_23990(-)	spore coat associated JA family protein
+cgMLST V1 + HierCC V1	CD630_24000(cotJB2)	cotJB family protein
+cgMLST V1 + HierCC V1	CD630_24010(cotJC2)	manganese containing catalase
+cgMLST V1 + HierCC V1	CD630_24020(cwlA)	cell wall hydrolase
+cgMLST V1 + HierCC V1	CD630_24030(dut)	deoxyuridine 5'-triphosphate nucleotidohydrolase
+cgMLST V1 + HierCC V1	CD630_24040(topB)	DNA topoisomerase type IA
+cgMLST V1 + HierCC V1	CD630_24050(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_24060(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_24070(-)	multidrug transporter
+cgMLST V1 + HierCC V1	CD630_24080(-)	multidrug transporter
+cgMLST V1 + HierCC V1	CD630_24090(-)	double zinc ribbon family protein
+cgMLST V1 + HierCC V1	CD630_24100(ppdK)	"pyruvate, phosphate dikinase"
+cgMLST V1 + HierCC V1	CD630_24110(ppsR)	phosphotransferase
+cgMLST V1 + HierCC V1	CD630_24120(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_24130(-)	SAF domain protein
+cgMLST V1 + HierCC V1	CD630_24140(srlB)	PTS sorbose transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_24150(-)	glucitol operon activator family protein
+cgMLST V1 + HierCC V1	CD630_24160(licR)	transcriptional antiterminator
+cgMLST V1 + HierCC V1	CD630_24170(srlE)	PTS sorbitol transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_24180(srlA)	PTS sorbitol transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_24190(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_24200(-)	Acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase
+cgMLST V1 + HierCC V1	CD630_24210(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_24230(-)	transporter
+cgMLST V1 + HierCC V1	CD630_24240(-)	aminotransferase
+cgMLST V1 + HierCC V1	CD630_24250(ptb)	phosphate butyryltransferase
+cgMLST V1 + HierCC V1	CD630_24260(buk1)	butyrate kinase
+cgMLST V1 + HierCC V1	CD630_24270(korC)	pyruvate:ferredoxin (flavodoxin) oxidoreductase
+cgMLST V1 + HierCC V1	CD630_24280(korB)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_24290(korA)	3-methyl-2-oxobutanoate dehydrogenase subunit VorB
+cgMLST V1 + HierCC V1	CD630_24291(korD)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_24300(-)	IclR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_24310(nirA)	ferredoxin--nitrite reductase
+cgMLST V1 + HierCC V1	CD630_24320(glyS)	glycine--tRNA ligase subunit beta
+cgMLST V1 + HierCC V1	CD630_24330(glyQ)	glycine--tRNA ligase subunit alpha
+cgMLST V1 + HierCC V1	CD630_24340(-)	ubiquitin-associated domain-containing protein
+cgMLST V1 + HierCC V1	CD630_24350(recO)	DNA repair protein RecO
+cgMLST V1 + HierCC V1	CD630_24351(-)	yqzL-like family protein
+cgMLST V1 + HierCC V1	CD630_24360(mgtE)	magnesium transporter
+cgMLST V1 + HierCC V1	CD630_24370(era)	GTPase Era
+cgMLST V1 + HierCC V1	CD630_24380(cdd)	cytidine deaminase
+cgMLST V1 + HierCC V1	CD630_24390(dgkA)	diacylglycerol kinase
+cgMLST V1 + HierCC V1	CD630_24400(ybeY)	16S rRNA maturation RNase YbeY
+cgMLST V1 + HierCC V1	CD630_24411(phoH)	phosphate starvation protein PhoH
+cgMLST V1 + HierCC V1	CD630_24420(spoIV)	stage IV sporulation YqfD family protein
+cgMLST V1 + HierCC V1	CD630_24430(-)	sporulation protein
+cgMLST V1 + HierCC V1	CD630_24440(yhbH)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_24450(-)	histidine kinase
+cgMLST V1 + HierCC V1	CD630_24460(-)	aspartyl-tRNA amidotransferase subunit B
+cgMLST V1 + HierCC V1	CD630_24461(rpsU)	30S ribosomal protein S21
+cgMLST V1 + HierCC V1	CD630_24470(hinT)	histidine triad nucleotide-binding protein
+cgMLST V1 + HierCC V1	CD630_24480(mtaB)	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase MiaB
+cgMLST V1 + HierCC V1	CD630_24500(prmA)	ribosomal protein L11 methyltransferase
+cgMLST V1 + HierCC V1	CD630_24560(msmX)	sugar ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_24570(cdaR)	PucR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_24580(-)	sugar (and other) transporter family protein
+cgMLST V1 + HierCC V1	CD630_24590(glk)	ROK family protein
+cgMLST V1 + HierCC V1	CD630_24591(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_24600(dnaJ)	molecular chaperone DnaJ
+cgMLST V1 + HierCC V1	CD630_24610(dnaK)	molecular chaperone DnaK
+cgMLST V1 + HierCC V1	CD630_24620(grpE)	nucleotide exchange factor GrpE
+cgMLST V1 + HierCC V1	CD630_24630(hrcA)	HrcA family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_24640(hemN)	Oxygen-independent coproporphyrinogen-III oxidase 1
+cgMLST V1 + HierCC V1	CD630_24650(-)	amino acid permease
+cgMLST V1 + HierCC V1	CD630_24660(cca)	polynucleotide adenylyltransferase
+cgMLST V1 + HierCC V1	CD630_24670(lepA)	elongation factor 4
+cgMLST V1 + HierCC V1	CD630_24680(-)	exported protein
+cgMLST V1 + HierCC V1	CD630_24690(spoIIP)	stage II sporulation P family protein
+cgMLST V1 + HierCC V1	CD630_24700(gpr)	GPR endopeptidase
+cgMLST V1 + HierCC V1	CD630_24730(rpsT)	30S ribosomal protein S20
+cgMLST V1 + HierCC V1	CD630_24740(holA)	DNA polymerase III subunit delta
+cgMLST V1 + HierCC V1	CD630_24760(-)	GNAT family acetyltransferase
+cgMLST V1 + HierCC V1	CD630_24770(-)	Uncharacterized conserved protein
+cgMLST V1 + HierCC V1	CD630_24780(comEC)	MBL fold hydrolase
+cgMLST V1 + HierCC V1	CD630_24790(-)	tRNA threonylcarbamoyladenosine dehydratase
+cgMLST V1 + HierCC V1	CD630_24800(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_24810(ung)	uracil-DNA glycosylase
+cgMLST V1 + HierCC V1	CD630_24820(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_24840(patB)	aminotransferase
+cgMLST V1 + HierCC V1	CD630_24850(pepP)	metallopeptidase M24 family protein
+cgMLST V1 + HierCC V1	CD630_24860(-)	PTS fructose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_24870(-)	PTS fructose transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_24880(fruB)	PTS fructose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_24890(licR)	"transcription antiterminator, PTS operon regulator"
+cgMLST V1 + HierCC V1	CD630_24900(dapE)	peptidase M20
+cgMLST V1 + HierCC V1	CD630_24910(pmi)	"mannose-6-phosphate isomerase, class I"
+cgMLST V1 + HierCC V1	CD630_24920(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_24930(selB)	selenocysteine-specific translation elongation factor
+cgMLST V1 + HierCC V1	CD630_24950(selA)	L-selenocysteinyl-tRNA(Sec) synthase
+cgMLST V1 + HierCC V1	CD630_24960(selD)	"selenide, water dikinase"
+cgMLST V1 + HierCC V1	CD630_24970(comE)	competence protein ComEA
+cgMLST V1 + HierCC V1	CD630_24980(dacF)	D-alanyl-D-alanine carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_24990(-)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_25000(argH)	argininosuccinate lyase
+cgMLST V1 + HierCC V1	CD630_25010(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_25020(hisC)	histidinol-phosphate aminotransferase
+cgMLST V1 + HierCC V1	CD630_25030(-)	cation-transporting P-type ATPase
+cgMLST V1 + HierCC V1	CD630_25040(vanY)	D-alanyl-D-alanine carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_25050(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_25060(LinCd)	multidrug MFS transporter
+cgMLST V1 + HierCC V1	CD630_25070(-)	transglutaminase
+cgMLST V1 + HierCC V1	CD630_25080(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_25130(ridA)	reactive intermediate/imine deaminase
+cgMLST V1 + HierCC V1	CD630_25140(tdcB)	threonine ammonia-lyase
+cgMLST V1 + HierCC V1	CD630_25150(asdA)	aspartate 4-decarboxylase
+cgMLST V1 + HierCC V1	CD630_25160(ansB)	L-asparaginase
+cgMLST V1 + HierCC V1	CD630_25210(leuS)	leucine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_25220(ybeB)	ribosome silencing factor RsfS
+cgMLST V1 + HierCC V1	CD630_25230(-)	HDIG domain-containing protein
+cgMLST V1 + HierCC V1	CD630_25240(nadD)	nicotinate-nicotinamide nucleotide adenylyltransferase
+cgMLST V1 + HierCC V1	CD630_25250(recX)	regulatory protein RecX
+cgMLST V1 + HierCC V1	CD630_25260(glgB)	alpha amylase catalytic domain protein
+cgMLST V1 + HierCC V1	CD630_25290(-)	antibiotic biosynthesis monooxygenase
+cgMLST V1 + HierCC V1	CD630_25300(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_25310(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_25330(-)	"ABC-type transport system, permease"
+cgMLST V1 + HierCC V1	CD630_25340(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_25350(phoR)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_25360(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_25370(ushA)	bifunctional metallophosphatase/5'-nucleotidase
+cgMLST V1 + HierCC V1	CD630_25380(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_25390(rnz)	ribonuclease Z
+cgMLST V1 + HierCC V1	CD630_25400(-)	CoA-disulfide reductase
+cgMLST V1 + HierCC V1	CD630_25410(-)	sodium:dicarboxylate symporter
+cgMLST V1 + HierCC V1	CD630_25420(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_25430(algI)	membrane-bound 0-ACYL transferase MBOAT family
+cgMLST V1 + HierCC V1	CD630_25440(-)	glycosyl transferase 2 family protein
+cgMLST V1 + HierCC V1	CD630_25450(bcsA)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_25480(-)	sugar ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_25490(-)	sugar ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_25500(-)	sugar ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_25570(-)	vacuolar-type H+-ATPase subunit H
+cgMLST V1 + HierCC V1	CD630_25580(coaD)	pantetheine-phosphate adenylyltransferase
+cgMLST V1 + HierCC V1	CD630_25600(recG)	ATP-dependent DNA helicase RecG
+cgMLST V1 + HierCC V1	CD630_25610(-)	dihydroxyacetone kinase
+cgMLST V1 + HierCC V1	CD630_25620(-)	asp23 family protein
+cgMLST V1 + HierCC V1	CD630_25621(rpmB)	50S ribosomal protein L28
+cgMLST V1 + HierCC V1	CD630_25630(-)	transposase
+cgMLST V1 + HierCC V1	CD630_25640(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_25700(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_25710(-)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_25720(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_25730(gph)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_25740(thiN)	thiamine pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_25750(rpe)	ribulose-phosphate 3-epimerase
+cgMLST V1 + HierCC V1	CD630_25760(rsgA)	ribosome small subunit-dependent GTPase A
+cgMLST V1 + HierCC V1	CD630_25770(fabG)	3-oxoacyl-ACP reductase
+cgMLST V1 + HierCC V1	CD630_25780(prkC)	phosphotransferase enzyme family protein
+cgMLST V1 + HierCC V1	CD630_25790(prpC)	phosphatase
+cgMLST V1 + HierCC V1	CD630_25800(rlmN)	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN
+cgMLST V1 + HierCC V1	CD630_25810(rsmB)	16S rRNA (cytosine(967)-C(5))-methyltransferase
+cgMLST V1 + HierCC V1	CD630_25820(-)	zinc metallopeptidase
+cgMLST V1 + HierCC V1	CD630_25830(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_25840(fmt)	methionyl-tRNA formyltransferase
+cgMLST V1 + HierCC V1	CD630_25850(def2)	peptide deformylase
+cgMLST V1 + HierCC V1	CD630_25860(priA)	DEAD/DEAH box helicase
+cgMLST V1 + HierCC V1	CD630_25870(coaBC)	phosphopantothenoylcysteine decarboxylase
+cgMLST V1 + HierCC V1	CD630_25871(rpoZ)	DNA-directed RNA polymerase subunit omega
+cgMLST V1 + HierCC V1	CD630_25880(gmk)	guanylate kinase
+cgMLST V1 + HierCC V1	CD630_25890(-)	YicC-like domain-containing protein
+cgMLST V1 + HierCC V1	CD630_25900(dapF)	diaminopimelate epimerase
+cgMLST V1 + HierCC V1	CD630_25910(ltaE)	threonine aldolase
+cgMLST V1 + HierCC V1	CD630_25920(fbpA)	fibronectin-binding A family protein
+cgMLST V1 + HierCC V1	CD630_25930(msrA)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_25950(pyrR)	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_25960(rluD)	"Putative pseudouridylate synthase, RluC/RluD family"
+cgMLST V1 + HierCC V1	CD630_25970(lspA)	lipoprotein signal peptidase
+cgMLST V1 + HierCC V1	CD630_25980(-)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_25990(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_26000(cstA)	carbon starvation CstA family protein
+cgMLST V1 + HierCC V1	CD630_26010(-)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_26020(-)	sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_26100(trpS)	tryptophan--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_26110(mtnN)	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+cgMLST V1 + HierCC V1	CD630_26120(gadC)	amino acid permease
+cgMLST V1 + HierCC V1	CD630_26130(pepQ)	proline dipeptidase
+cgMLST V1 + HierCC V1	CD630_26140(-)	6-phosphogluconate dehydratase
+cgMLST V1 + HierCC V1	CD630_26150(-)	TetR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_26160(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26180(ileS)	isoleucine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_26190(divIVA)	DivIVA domain-containing protein
+cgMLST V1 + HierCC V1	CD630_26200(-)	S4 domain protein
+cgMLST V1 + HierCC V1	CD630_26210(yggT)	YGGT family protein
+cgMLST V1 + HierCC V1	CD630_26220(sepF)	cell division protein SepF
+cgMLST V1 + HierCC V1	CD630_26230(yggS)	YggS family pyridoxal phosphate enzyme
+cgMLST V1 + HierCC V1	CD630_26240(-)	hlyD secretion family protein
+cgMLST V1 + HierCC V1	CD630_26250(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_26260(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26270(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26280(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26290(spoIVA)	stage IV sporulation protein A
+cgMLST V1 + HierCC V1	CD630_26300(gpsA)	glycerol-3-phosphate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_26310(plsY)	glycerol-3-phosphate acyltransferase
+cgMLST V1 + HierCC V1	CD630_26320(engA)	ribosome biogenesis GTPase Der
+cgMLST V1 + HierCC V1	CD630_26330(-)	Fe-S oxidoreductase
+cgMLST V1 + HierCC V1	CD630_26340(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26350(seaA)	spore envelope protein
+cgMLST V1 + HierCC V1	CD630_26360(seaA)	membrane protein
+cgMLST V1 + HierCC V1	CD630_26370(phoR)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_26380(phoB1)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_26390(yfiH)	multi-copper polyphenol oxidoreductase laccase
+cgMLST V1 + HierCC V1	CD630_26400(nrdR)	NrdR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_26410(-)	"sporulation , YlmC/YmxH family protein"
+cgMLST V1 + HierCC V1	CD630_26420(sigG)	sporulation sigma factor SigG
+cgMLST V1 + HierCC V1	CD630_26430(sigE)	sporulation sigma factor SigE
+cgMLST V1 + HierCC V1	CD630_26440(spoIIGA)	peptidase
+cgMLST V1 + HierCC V1	CD630_26450(-)	sugar ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_26460(ftsZ)	cell division protein FtsZ
+cgMLST V1 + HierCC V1	CD630_26470(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_26480(-)	division initiation protein
+cgMLST V1 + HierCC V1	CD630_26490(-)	protein of unknown function DUF881
+cgMLST V1 + HierCC V1	CD630_26500(ftsQ)	cell division protein FtsQ
+cgMLST V1 + HierCC V1	CD630_26510(murG)	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+cgMLST V1 + HierCC V1	CD630_26520(spoVE)	cell division protein FtsW
+cgMLST V1 + HierCC V1	CD630_26530(murD)	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+cgMLST V1 + HierCC V1	CD630_26540(mraY)	phospho-N-acetylmuramoyl-pentapeptide-transferase
+cgMLST V1 + HierCC V1	CD630_26550(murF)	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+cgMLST V1 + HierCC V1	CD630_26560(spoVD)	stage V sporulation protein D
+cgMLST V1 + HierCC V1	CD630_26570(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_26580(mraW)	16S rRNA (cytosine(1402)-N(4))-methyltransferase
+cgMLST V1 + HierCC V1	CD630_26590(lgt)	prolipoprotein diacylglyceryl transferase
+cgMLST V1 + HierCC V1	CD630_26600(-)	peptidase M16
+cgMLST V1 + HierCC V1	CD630_26610(-)	peptidase M16
+cgMLST V1 + HierCC V1	CD630_26620(ychF)	GTP-binding protein YchF
+cgMLST V1 + HierCC V1	CD630_26640(murE)	"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase"
+cgMLST V1 + HierCC V1	CD630_26650(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_26660(ptsG-A)	PTS glucose transporter subunit IIABC
+cgMLST V1 + HierCC V1	CD630_26670(ptsG-BC)	PTS glucose transporter subunit IIABC
+cgMLST V1 + HierCC V1	CD630_26750(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_26770(scoA)	Succinyl CoA:3-oxoacid CoA-transferase subunit A
+cgMLST V1 + HierCC V1	CD630_26780(scoB)	succinyl-CoA--3-ketoacid-CoA transferase
+cgMLST V1 + HierCC V1	CD630_26790(bdhA)	3-hydroxybutyrate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_26800(-)	permease
+cgMLST V1 + HierCC V1	CD630_26810(-)	putative Calcium-chelating exported protein
+cgMLST V1 + HierCC V1	CD630_26820(pfo)	pyruvate:ferredoxin (flavodoxin) oxidoreductase
+cgMLST V1 + HierCC V1	CD630_26830(-)	propanediol utilization phosphotransacylase
+cgMLST V1 + HierCC V1	CD630_26840(-)	flavodoxin
+cgMLST V1 + HierCC V1	CD630_26850(-)	sporulation protein
+cgMLST V1 + HierCC V1	CD630_26860(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_26870(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26871(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26880(sspA)	spore protein
+cgMLST V1 + HierCC V1	CD630_26890(-)	FAD-dependent oxidoreductase
+cgMLST V1 + HierCC V1	CD630_26900(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_26910(hpt)	hypoxanthine phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_26920(cobD)	threonine-phosphate decarboxylase
+cgMLST V1 + HierCC V1	CD630_26930(-)	dicarboxylate symporter family protein
+cgMLST V1 + HierCC V1	CD630_26940(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_26950(asnA)	aspartate--ammonia ligase
+cgMLST V1 + HierCC V1	CD630_26960(patB)	cystathionine beta-lyase
+cgMLST V1 + HierCC V1	CD630_27010(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_27020(brnQ)	branched-chain amino acid transporter
+cgMLST V1 + HierCC V1	CD630_27030(-)	pentapeptide repeats family protein
+cgMLST V1 + HierCC V1	CD630_27040(pbuG)	permease
+cgMLST V1 + HierCC V1	CD630_27050(mtaD)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_27060(-)	restriction endonuclease
+cgMLST V1 + HierCC V1	CD630_27080(aroE2)	shikimate 5-dehydrogenase
+cgMLST V1 + HierCC V1	CD630_27090(-)	flavin oxidoreductase / NADH oxidase
+cgMLST V1 + HierCC V1	CD630_27100(-)	AP endonuclease
+cgMLST V1 + HierCC V1	CD630_27110(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_27120(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_27130(-)	ErfK/YbiS/YcfS/YnhG
+cgMLST V1 + HierCC V1	CD630_27140(galE)	UDP-glucose 4-epimerase GalE
+cgMLST V1 + HierCC V1	CD630_27150(gtaB)	UTP--glucose-1-phosphate uridylyltransferase
+cgMLST V1 + HierCC V1	CD630_27151(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_27160(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_27170(-)	sporulation and cell division repeat protein
+cgMLST V1 + HierCC V1	CD630_27180(srtB)	SrtB family sortase
+cgMLST V1 + HierCC V1	CD630_27190(pdaA)	delta-lactam-biosynthetic de-N-acetylase
+cgMLST V1 + HierCC V1	CD630_27200(-)	transporter
+cgMLST V1 + HierCC V1	CD630_27210(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_27220(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_27230(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_27240(pdaA)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_27250(ugtP)	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-UDP N-acetylglucosamine transferase
+cgMLST V1 + HierCC V1	CD630_27260(glyA)	serine hydroxymethyltransferase
+cgMLST V1 + HierCC V1	CD630_27270(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_27280(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_27290(rseC)	"positive regulator of sigma(E), RseC/MucC family protein"
+cgMLST V1 + HierCC V1	CD630_27300(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_27310(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_27330(patB)	cystathionine beta-lyase PatB
+cgMLST V1 + HierCC V1	CD630_27340(nhaC)	Na+/H+ antiporter NhaC
+cgMLST V1 + HierCC V1	CD630_27341(-)	Putative membrane protein
+cgMLST V1 + HierCC V1	CD630_27350(-)	cell wall binding repeat 2 family protein
+cgMLST V1 + HierCC V1	CD630_27360(-)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_27390(aspS)	aspartate--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_27400(hisS)	histidine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_27410(hemZ)	coproporphyrinogen III oxidase
+cgMLST V1 + HierCC V1	CD630_27420(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_27430(dtd)	D-aminoacyl-tRNA deacylase
+cgMLST V1 + HierCC V1	CD630_27440(relA)	GTP pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_27450(apt)	adenine phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_27460(recJ)	single-stranded-DNA-specific exonuclease RecJ
+cgMLST V1 + HierCC V1	CD630_27470(ubiB)	ABC1 family protein
+cgMLST V1 + HierCC V1	CD630_27480(-)	gamma carbonic anhydrase family protein
+cgMLST V1 + HierCC V1	CD630_27490(-)	thioether cross-link-forming SCIFF peptide maturase
+cgMLST V1 + HierCC V1	CD630_27491(agrD)	autoinducer
+cgMLST V1 + HierCC V1	CD630_27500(agrB)	accessory gene regulator
+cgMLST V1 + HierCC V1	CD630_27510(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_27520(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_27550(ptsI)	phosphoenolpyruvate--protein phosphotransferase
+cgMLST V1 + HierCC V1	CD630_27560(ptsH)	PTS sugar transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_27570(-)	phospholipase
+cgMLST V1 + HierCC V1	CD630_27580(-)	SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_27590(-)	Rrf2 family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_27600(-)	diguanylate phosphodiesterase
+cgMLST V1 + HierCC V1	CD630_27610(amiA)	N-acetylmuramoyl-L-alanine amidase
+cgMLST V1 + HierCC V1	CD630_27620(uppS)	dihydroorotate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_27630(-)	lipoprotein
+cgMLST V1 + HierCC V1	CD630_27640(-)	haloacid dehalogenase
+cgMLST V1 + HierCC V1	CD630_27650(-)	LytR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_27660(-)	LytR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_27670(-)	melibiase
+cgMLST V1 + HierCC V1	CD630_27680(-)	NlpC/P60 family protein
+cgMLST V1 + HierCC V1	CD630_27690(-)	short-chain dehydrogenase/reductase
+cgMLST V1 + HierCC V1	CD630_27700(-)	capsular polysaccharide biosynthesis protein
+cgMLST V1 + HierCC V1	CD630_27710(rkpK)	UDP-glucose 6-dehydrogenase
+cgMLST V1 + HierCC V1	CD630_27720(tuaG)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_27730(-)	beta-glycosyltransferase
+cgMLST V1 + HierCC V1	CD630_27740(tuaG)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_27750(-)	glycerophosphotransferase
+cgMLST V1 + HierCC V1	CD630_27760(-)	glycosyl transferase family 2
+cgMLST V1 + HierCC V1	CD630_27770(-)	polysaccharide polymerase
+cgMLST V1 + HierCC V1	CD630_27780(-)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_27790(manC)	mannose-1-phosphate guanylyltransferase
+cgMLST V1 + HierCC V1	CD630_27800(pgm)	phosphoglucomutase/phosphomannomutase C-terminal domain protein
+cgMLST V1 + HierCC V1	CD630_27810(mviN)	lipid II flippase MurJ
+cgMLST V1 + HierCC V1	CD630_27820(-)	cell wall binding repeat 2
+cgMLST V1 + HierCC V1	CD630_27830(-)	UDP-phosphate N-acetylgalactosaminyl-1-phosphate transferase
+cgMLST V1 + HierCC V1	CD630_27840(amiA)	N-acetylmuramoyl-L-alanine amidase
+cgMLST V1 + HierCC V1	CD630_27860(-)	cell wall-binding repeat 2 family protein
+cgMLST V1 + HierCC V1	CD630_27870(cwp84)	cysteine protease
+cgMLST V1 + HierCC V1	CD630_27900(-)	GlcNAc-PI de-N-acetylase
+cgMLST V1 + HierCC V1	CD630_27990(-)	cell wall-binding repeat 2 family protein
+cgMLST V1 + HierCC V1	CD630_27991(-)	six-cysteine peptide SCIFF
+cgMLST V1 + HierCC V1	CD630_28000(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28010(yajC)	preprotein translocase subunit YajC
+cgMLST V1 + HierCC V1	CD630_28020(tgt)	tRNA guanosine(34) transglycosylase Tgt
+cgMLST V1 + HierCC V1	CD630_28030(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28040(queA)	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA
+cgMLST V1 + HierCC V1	CD630_28050(ruvB)	Holliday junction DNA helicase RuvB
+cgMLST V1 + HierCC V1	CD630_28060(ruvA)	Holliday junction ATP-dependent DNA helicase RuvA
+cgMLST V1 + HierCC V1	CD630_28070(ruvC)	crossover junction endodeoxyribonuclease RuvC
+cgMLST V1 + HierCC V1	CD630_28080(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28090(-)	protein of unknown function (DUF1540)
+cgMLST V1 + HierCC V1	CD630_28100(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28120(-)	gluconate permease
+cgMLST V1 + HierCC V1	CD630_28130(garR)	2-hydroxy-3-oxopropionate reductase
+cgMLST V1 + HierCC V1	CD630_28150(-)	L-2-amino-thiazoline-4-carboxylic acid hydrolase
+cgMLST V1 + HierCC V1	CD630_28160(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_28170(efrB)	ABC transporter
+cgMLST V1 + HierCC V1	CD630_28180(efrA)	multidrug ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_28181(-)	dihydrofolate reductase
+cgMLST V1 + HierCC V1	CD630_28190(-)	amino-acid racemase
+cgMLST V1 + HierCC V1	CD630_28260(fadH)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_28270(-)	MarR family protein
+cgMLST V1 + HierCC V1	CD630_28280(yhdR)	aminotransferase class-V family protein
+cgMLST V1 + HierCC V1	CD630_28290(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28300(zmp1)	zinc metalloprotease Zmp1
+cgMLST V1 + HierCC V1	CD630_28320(-)	cation diffusion facilitator transporter
+cgMLST V1 + HierCC V1	CD630_28330(-)	calcium-translocating P-type ATPase PMCA-type
+cgMLST V1 + HierCC V1	CD630_28340(glyA)	serine hydroxymethyltransferase
+cgMLST V1 + HierCC V1	CD630_28350(abgT)	aminobenzoyl-glutamate transporter
+cgMLST V1 + HierCC V1	CD630_28370(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28380(yesN)	two-component response regulator
+cgMLST V1 + HierCC V1	CD630_28390(yesM)	sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_28410(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_28420(-)	bifunctional nitrilase/nitrile hydratase NIT4
+cgMLST V1 + HierCC V1	CD630_28430(-)	quinone oxidoreductase
+cgMLST V1 + HierCC V1	CD630_28440(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_28450(rbr)	rubrerythrin
+cgMLST V1 + HierCC V1	CD630_28490(phnXW)	Bifunctional phosphonoacetaldehyde hydrolase/aminoethylphosphonate transaminase (Includes: Phosphonoacetaldehyde hydrolase ; 2-aminoethylphosphonate--pyruvate transaminase)
+cgMLST V1 + HierCC V1	CD630_28500(-)	deoR sensor domain-containing protein
+cgMLST V1 + HierCC V1	CD630_28510(dltC)	D-alanine--poly(phosphoribitol) ligase subunit 2
+cgMLST V1 + HierCC V1	CD630_28520(dltB)	D-alanyl-lipoteichoic acid biosynthesis protein DltB
+cgMLST V1 + HierCC V1	CD630_28530(dltA)	D-alanine--poly(phosphoribitol) ligase
+cgMLST V1 + HierCC V1	CD630_28540(dltD)	D-alanyl-lipoteichoic acid biosynthesis protein DltD
+cgMLST V1 + HierCC V1	CD630_28550(-)	putative oxidoreductase
+cgMLST V1 + HierCC V1	CD630_28560(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CD630_28570(-)	hydrolase
+cgMLST V1 + HierCC V1	CD630_28580(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28590(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_28600(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28610(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_28620(dpeP)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_28640(cpo)	hydrolase
+cgMLST V1 + HierCC V1	CD630_28660(pmbA)	peptidase U62
+cgMLST V1 + HierCC V1	CD630_28670(tldD)	modulator of DNA gyrase
+cgMLST V1 + HierCC V1	CD630_28680(-)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_28690(-)	Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_28700(kdgT1)	2-keto-3-deoxygluconate permease
+cgMLST V1 + HierCC V1	CD630_28710(uxaA1)	SAF domain protein
+cgMLST V1 + HierCC V1	CD630_28720(uxaA)	carbohydrate hydrolase
+cgMLST V1 + HierCC V1	CD630_28740(-)	MATE efflux family protein
+cgMLST V1 + HierCC V1	CD630_28750(fhuC)	iron-dicitrate transporter ATP-binding subunit
+cgMLST V1 + HierCC V1	CD630_28760(fhuG)	iron ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_28770(fhuB)	ferrichrome ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_28780(fhuD)	ferrichrome ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_28800(celC)	PTS cellobiose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_28810(celG)	ydjC-like family protein
+cgMLST V1 + HierCC V1	CD630_28820(celF)	6-phospho-beta-glucosidase
+cgMLST V1 + HierCC V1	CD630_28840(celA)	PTS sugar transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_28850(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_28880(afuB)	phosphonate ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_29540(atpD)	V-type ATP synthase subunit D
+cgMLST V1 + HierCC V1	CD630_29550(atpB)	ATP synthase subunit beta
+cgMLST V1 + HierCC V1	CD630_29560(atpA)	V-type ATP synthase alpha chain
+cgMLST V1 + HierCC V1	CD630_29561(atpF)	V-type ATP synthase subunit F
+cgMLST V1 + HierCC V1	CD630_29570(atpC)	ATP synthase subunit C
+cgMLST V1 + HierCC V1	CD630_29580(atpE)	V-type ATP synthase subunit E
+cgMLST V1 + HierCC V1	CD630_29590(atpK)	V-type ATP synthase subunit K
+cgMLST V1 + HierCC V1	CD630_29600(atpI)	V-type sodium ATP synthase subunit I
+cgMLST V1 + HierCC V1	CD630_29610(ahaH)	"ATP synthase archaeal, H subunit"
+cgMLST V1 + HierCC V1	CD630_29620(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_29630(-)	peptidoglycan-binding protein
+cgMLST V1 + HierCC V1	CD630_29640(-)	B3/4 domain protein
+cgMLST V1 + HierCC V1	CD630_29650(-)	diguanylate phosphodiesterase
+cgMLST V1 + HierCC V1	CD630_29660(adhE)	bifunctional acetaldehyde-CoA/alcohol dehydrogenase
+cgMLST V1 + HierCC V1	CD630_29661(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_29670(spoVFB)	dipicolinate synthase subunit B
+cgMLST V1 + HierCC V1	CD630_29680(dpaA)	dipicolinate synthase subunit A
+cgMLST V1 + HierCC V1	CD630_29690(-)	AMP-binding protein
+cgMLST V1 + HierCC V1	CD630_29700(atoB)	acetyl-CoA acetyltransferase
+cgMLST V1 + HierCC V1	CD630_29720(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_29730(yiaC)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_29840(yxdM)	ftsX-like permease
+cgMLST V1 + HierCC V1	CD630_29850(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_29860(uppP2)	undecaprenyl-diphosphatase
+cgMLST V1 + HierCC V1	CD630_29880(-)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_29890(ssuA2)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_29900(ssuB2)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_29910(ssuC2)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_29920(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_29930(-)	gyrI-like small molecule-binding domain protein
+cgMLST V1 + HierCC V1	CD630_29940(nrdF)	ribonucleoside-diphosphate reductase subunit beta
+cgMLST V1 + HierCC V1	CD630_29950(nrdE)	ribonucleotide-diphosphate reductase
+cgMLST V1 + HierCC V1	CD630_29960(-)	pentapeptide repeats family protein
+cgMLST V1 + HierCC V1	CD630_29970(-)	cobalamin/Fe3+-siderophore ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_29990(-)	iron ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_30000(dapA1)	dihydrodipicolinate synthase family protein
+cgMLST V1 + HierCC V1	CD630_30010(-)	fumarylacetoacetate (FAA) hydrolase
+cgMLST V1 + HierCC V1	CD630_30020(uxaA)	carbohydrate hydrolase
+cgMLST V1 + HierCC V1	CD630_30030(uxaA1)	D-galactarate dehydratase
+cgMLST V1 + HierCC V1	CD630_30040(kdgT2)	2-keto-3-deoxygluconate permease
+cgMLST V1 + HierCC V1	CD630_30050(-)	IclR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_30060(-)	lactaldehyde reductase
+cgMLST V1 + HierCC V1	CD630_30070(-)	bacterial SH3 domain protein
+cgMLST V1 + HierCC V1	CD630_30090(lpd)	pyridine nucleotide-disulfide oxidoreductase
+cgMLST V1 + HierCC V1	CD630_30100(ccdA)	thioredoxin
+cgMLST V1 + HierCC V1	CD630_30110(-)	"transcriptional regulator, HxlR family"
+cgMLST V1 + HierCC V1	CD630_30120(-)	alpha mannosidase middle domain protein
+cgMLST V1 + HierCC V1	CD630_30130(fruA)	PTS mannose transporter subunit IIAB
+cgMLST V1 + HierCC V1	CD630_30140(fruA)	"PTS Fru family, IIB component domain protein"
+cgMLST V1 + HierCC V1	CD630_30150(fruB)	PTS mannose transporter subunit IIAB
+cgMLST V1 + HierCC V1	CD630_30170(glcU)	sugar transport family protein
+cgMLST V1 + HierCC V1	CD630_30180(-)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_30190(eta)	transporter
+cgMLST V1 + HierCC V1	CD630_30250(-)	4Fe-4S-binding domain protein
+cgMLST V1 + HierCC V1	CD630_30260(-)	DNA-directed RNA polymerase sigma-70 factor
+cgMLST V1 + HierCC V1	CD630_30330(trxA)	thiol reductase thioredoxin
+cgMLST V1 + HierCC V1	CD630_30350(-)	diaminopimelate epimerase
+cgMLST V1 + HierCC V1	CD630_30360(-)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_30370(carD)	carD-like/TRCF domain protein
+cgMLST V1 + HierCC V1	CD630_30390(-)	ATPase AAA
+cgMLST V1 + HierCC V1	CD630_30400(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_30410(pepI)	"Proline iminopeptidase (Proline aminopeptidase) (PIP), peptidase S33 family"
+cgMLST V1 + HierCC V1	CD630_30420(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_30530(-)	"histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"
+cgMLST V1 + HierCC V1	CD630_30550(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_30560(-)	polyamine-transporting ATPase
+cgMLST V1 + HierCC V1	CD630_30630(-)	peptidase S41
+cgMLST V1 + HierCC V1	CD630_30640(xylA)	xylose isomerase
+cgMLST V1 + HierCC V1	CD630_30660(xylR)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_30670(xynA)	PTS mannose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_30680(xynB)	PTS sugar transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_30690(xynD)	PTS trehalose transporter subunit IIBC
+cgMLST V1 + HierCC V1	CD630_30700(xynC)	PTS sorbose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_30710(xylS)	glycosyl hydrolase 31 family protein
+cgMLST V1 + HierCC V1	CD630_30720(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_30730(qrtT)	ECF-type riboflavin transporter S component family protein
+cgMLST V1 + HierCC V1	CD630_30740(fbaA)	ketose-bisphosphate aldolase
+cgMLST V1 + HierCC V1	CD630_30750(tagABC)	PTS sugar transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_30760(tagK)	6-phosphofructokinase
+cgMLST V1 + HierCC V1	CD630_30770(-)	RpiR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_30990(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_31000(-)	C4-dicarboxylate ABC transporter
+cgMLST V1 + HierCC V1	CD630_31130(abgB)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_31140(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_31160(bglF)	PTS beta-glucoside transporter subunit EIIBCA
+cgMLST V1 + HierCC V1	CD630_31170(bglG)	PRD domain protein
+cgMLST V1 + HierCC V1	CD630_31180(-)	Protein of uncharacterised function (DUF3139)
+cgMLST V1 + HierCC V1	CD630_31210(-)	4Fe-4S-binding domain protein
+cgMLST V1 + HierCC V1	CD630_31220(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_31230(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_31320(fruB)	PTS fructose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_31340(fruA)	"PTS fructose subfamily, IIA component domain protein"
+cgMLST V1 + HierCC V1	CD630_31350(fbaA)	ketose-bisphosphate aldolase
+cgMLST V1 + HierCC V1	CD630_31580(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_31630(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_31640(rnr)	ribonuclease R
+cgMLST V1 + HierCC V1	CD630_31650(-)	phosphomethylpyrimidine kinase
+cgMLST V1 + HierCC V1	CD630_31670(-)	phosphatidylethanolamine-binding protein
+cgMLST V1 + HierCC V1	CD630_31690(-)	transporter
+cgMLST V1 + HierCC V1	CD630_31691(secG)	preprotein translocase subunit SecG
+cgMLST V1 + HierCC V1	CD630_31700(eno)	enolase
+cgMLST V1 + HierCC V1	CD630_31710(gpmI)	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"
+cgMLST V1 + HierCC V1	CD630_31720(tpi)	triose-phosphate isomerase
+cgMLST V1 + HierCC V1	CD630_31730(pgk)	phosphoglycerate kinase
+cgMLST V1 + HierCC V1	CD630_31740(gapA)	type I glyceraldehyde-3-phosphate dehydrogenase
+cgMLST V1 + HierCC V1	CD630_31750(cggR)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_31760(glnF)	RNA polymerase sigma-54 factor
+cgMLST V1 + HierCC V1	CD630_31770(-)	selenium-dependent xanthine dehydrogenase
+cgMLST V1 + HierCC V1	CD630_31780(dht)	dihydropyrimidinase
+cgMLST V1 + HierCC V1	CD630_31790(pyrD)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_31800(-)	uracil permease
+cgMLST V1 + HierCC V1	CD630_31810(-)	chlorohydrolase
+cgMLST V1 + HierCC V1	CD630_31820(-)	D-aminoacylase
+cgMLST V1 + HierCC V1	CD630_31870(tdcF)	reactive intermediate/imine deaminase
+cgMLST V1 + HierCC V1	CD630_31871(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_31880(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_31890(-)	FMN reductase
+cgMLST V1 + HierCC V1	CD630_31900(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_31920(-)	cell surface peptidase M4 family
+cgMLST V1 + HierCC V1	CD630_31930(-)	phage-related protein
+cgMLST V1 + HierCC V1	CD630_31940(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_31950(uvrA)	excinuclease ABC subunit A
+cgMLST V1 + HierCC V1	CD630_31970(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_31980(cme)	MFS transporter
+cgMLST V1 + HierCC V1	CD630_32040(yidC)	membrane protein
+cgMLST V1 + HierCC V1	CD630_32050(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_32070(-)	multidrug transporter MatE
+cgMLST V1 + HierCC V1	CD630_32080(-)	MarR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_32090(-)	PadR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_32100(-)	iRON-SULFUR FLAVOPROTEIN
+cgMLST V1 + HierCC V1	CD630_32110(-)	FMN reductase
+cgMLST V1 + HierCC V1	CD630_32130(-)	conjugal transfer protein
+cgMLST V1 + HierCC V1	CD630_32150(opuA)	glycine/betaine ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_32160(opuC)	glycine/betaine ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_32170(-)	thiamine ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_32180(-)	glcNAc-PI de-N-acetylase family protein
+cgMLST V1 + HierCC V1	CD630_32190(hslO)	molecular chaperone Hsp33
+cgMLST V1 + HierCC V1	CD630_32200(-)	methyltransferase
+cgMLST V1 + HierCC V1	CD630_32201(-)	spore protein
+cgMLST V1 + HierCC V1	CD630_32210(-)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_32220(sdaB)	L-serine dehydratase
+cgMLST V1 + HierCC V1	CD630_32240(asd)	aspartate-semialdehyde dehydrogenase
+cgMLST V1 + HierCC V1	CD630_32250(dapA3)	4-hydroxy-tetrahydrodipicolinate synthase
+cgMLST V1 + HierCC V1	CD630_32260(dapB1)	4-hydroxy-tetrahydrodipicolinate reductase
+cgMLST V1 + HierCC V1	CD630_32270(dapH)	"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase"
+cgMLST V1 + HierCC V1	CD630_32280(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_32290(dapB2)	4-hydroxy-tetrahydrodipicolinate reductase
+cgMLST V1 + HierCC V1	CD630_32310(hpt)	hypoxanthine phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_32320(-)	serine dehydratase alpha chain family protein
+cgMLST V1 + HierCC V1	CD630_32330(-)	sigma-54-dependent Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_32340(-)	methyltransferase
+cgMLST V1 + HierCC V1	CD630_32350(ssb)	single-strand DNA-binding protein
+cgMLST V1 + HierCC V1	CD630_32360(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_32370(prdF)	proline racemase A
+cgMLST V1 + HierCC V1	CD630_32390(prdE)	D-proline reductase
+cgMLST V1 + HierCC V1	CD630_32400(prdD)	proline reductase cluster protein PrdD
+cgMLST V1 + HierCC V1	CD630_32430(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_32440(prdA)	D-proline reductase (dithiol) proprotein PrdA
+cgMLST V1 + HierCC V1	CD630_32450(prdR)	sigma-54-dependent Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_32470(prdC)	proline reductase-associated electron transfer protein PrdC
+cgMLST V1 + HierCC V1	CD630_32480(-)	deacetylase
+cgMLST V1 + HierCC V1	CD630_32500(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_32510(-)	dehydrogenase
+cgMLST V1 + HierCC V1	CD630_32520(-)	TSCPD domain-containing protein
+cgMLST V1 + HierCC V1	CD630_32530(folC)	bifunctional folylpolyglutamate synthase/dihydrofolate synthase
+cgMLST V1 + HierCC V1	CD630_32540(isp)	subtilase
+cgMLST V1 + HierCC V1	CD630_32550(rgaR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_32560(valS)	valine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_32570(-)	polysaccharide deacetylase
+cgMLST V1 + HierCC V1	CD630_32580(-)	iron hydrogenase
+cgMLST V1 + HierCC V1	CD630_32590(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_32600(phoU)	phosphate transport system regulatory protein PhoU
+cgMLST V1 + HierCC V1	CD630_32610(pstB)	phosphate ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_32620(pstA)	"phosphate ABC transporter, permease protein PstA"
+cgMLST V1 + HierCC V1	CD630_32630(pstC)	phosphate ABC transporter permease subunit PstC
+cgMLST V1 + HierCC V1	CD630_32650(phoB1)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_32660(vicK)	his Kinase A domain protein
+cgMLST V1 + HierCC V1	CD630_32670(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_32680(pstS)	phosphate ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_32690(pepF)	oligoendopeptidase F
+cgMLST V1 + HierCC V1	CD630_32700(mgtC)	cation transporter
+cgMLST V1 + HierCC V1	CD630_32710(-)	spo0E like sporulation regulatory family protein
+cgMLST V1 + HierCC V1	CD630_32720(hepST)	membrane protein
+cgMLST V1 + HierCC V1	CD630_32730(feoA)	iron transporter FeoA
+cgMLST V1 + HierCC V1	CD630_32740(feoB)	iron transporter FeoB
+cgMLST V1 + HierCC V1	CD630_32810(proC)	pyrroline-5-carboxylate reductase
+cgMLST V1 + HierCC V1	CD630_32820(pflD)	glycyl radical enzyme
+cgMLST V1 + HierCC V1	CD630_32830(pflE)	glycyl-radical enzyme activating protein
+cgMLST V1 + HierCC V1	CD630_32840(degP)	peptidase S7
+cgMLST V1 + HierCC V1	CD630_32850(pgi)	glucose-6-phosphate isomerase
+cgMLST V1 + HierCC V1	CD630_32860(yjbB)	Na/Pi cotransporter
+cgMLST V1 + HierCC V1	CD630_32870(-)	oxidoreductase FAD dependent
+cgMLST V1 + HierCC V1	CD630_32880(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_32890(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_32900(-)	protein translocase
+cgMLST V1 + HierCC V1	CD630_32950(pilC)	"type II secretion system (T2SS), F family protein"
+cgMLST V1 + HierCC V1	CD630_32960(pilB)	Putative pilus assembly ATPase
+cgMLST V1 + HierCC V1	CD630_32970(-)	division initiation protein
+cgMLST V1 + HierCC V1	CD630_32980(-)	ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_32990(-)	transporter
+cgMLST V1 + HierCC V1	CD630_33000(engB)	YihA family ribosome biogenesis GTP-binding protein
+cgMLST V1 + HierCC V1	CD630_33010(lon)	Lon protease
+cgMLST V1 + HierCC V1	CD630_33020(chrA)	chromate transporter
+cgMLST V1 + HierCC V1	CD630_33030(chrA)	chromate transporter
+cgMLST V1 + HierCC V1	CD630_33040(clpX)	ATP-dependent Clp protease ATP-binding subunit ClpX
+cgMLST V1 + HierCC V1	CD630_33050(clpP1)	"ATP-dependent Clp endopeptidase, proteolytic subunit ClpP"
+cgMLST V1 + HierCC V1	CD630_33060(tig)	trigger factor
+cgMLST V1 + HierCC V1	CD630_33070(-)	phosphoesterase
+cgMLST V1 + HierCC V1	CD630_33080(rph)	ribonuclease PH
+cgMLST V1 + HierCC V1	CD630_33090(ligA)	DNA ligase (NAD(+)) LigA
+cgMLST V1 + HierCC V1	CD630_33100(-)	dihydrofolate reductase
+cgMLST V1 + HierCC V1	CD630_33110(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_33130(hydN1)	electron transporter HydN
+cgMLST V1 + HierCC V1	CD630_33140(hydA)	iron hydrogenase
+cgMLST V1 + HierCC V1	CD630_33150(hydN2)	oxidoreductase
+cgMLST V1 + HierCC V1	CD630_33151(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_33160(fdhD)	formate dehydrogenase family accessory protein FdhD
+cgMLST V1 + HierCC V1	CD630_33190(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_33200(nisR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_33240(-)	histidine kinase
+cgMLST V1 + HierCC V1	CD630_33250(-)	(Fe-S)-binding protein
+cgMLST V1 + HierCC V1	CD630_33500(-)	glycosyl transferase
+cgMLST V1 + HierCC V1	CD630_33510(clpP2)	ATP-dependent Clp protease proteolytic subunit
+cgMLST V1 + HierCC V1	CD630_33520(-)	AraC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_33550(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_33560(-)	HxlR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_33581(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_33590(-)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CD630_33600(vicR)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_33610(-)	MATE family transporter
+cgMLST V1 + HierCC V1	CD630_33650(-)	diguanylate cyclase
+cgMLST V1 + HierCC V1	CD630_33940(pyk)	pyruvate kinase
+cgMLST V1 + HierCC V1	CD630_33950(pfkA)	ATP-dependent 6-phosphofructokinase
+cgMLST V1 + HierCC V1	CD630_33960(dnaE)	DNA polymerase III subunit alpha
+cgMLST V1 + HierCC V1	CD630_33970(whiA)	sporulation protein
+cgMLST V1 + HierCC V1	CD630_33980(-)	NUDIX hydrolase
+cgMLST V1 + HierCC V1	CD630_33990(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_34000(rapZ)	RNase adaptor protein RapZ
+cgMLST V1 + HierCC V1	CD630_34010(ycdX)	phosphoesterase
+cgMLST V1 + HierCC V1	CD630_34020(murB)	UDP-N-acetylenolpyruvoylglucosamine reductase
+cgMLST V1 + HierCC V1	CD630_34030(nirC)	formate transporter
+cgMLST V1 + HierCC V1	CD630_34040(cls)	cardiolipin synthase
+cgMLST V1 + HierCC V1	CD630_34050(nuoE)	NADH dehydrogenase
+cgMLST V1 + HierCC V1	CD630_34060(nuoF)	iron-only hydrogenase electron-transferring subunit HymB-like
+cgMLST V1 + HierCC V1	CD630_34070(nuoG)	NADH:ubiquinone oxidoreductase
+cgMLST V1 + HierCC V1	CD630_34080(-)	DNA mismatch repair ATPase MutS
+cgMLST V1 + HierCC V1	CD630_34090(hprK)	HPr(Ser) kinase/phosphatase
+cgMLST V1 + HierCC V1	CD630_34100(uvrC)	Excinuclease ABC subunit C
+cgMLST V1 + HierCC V1	CD630_34110(uvrA)	excinuclease ABC subunit A
+cgMLST V1 + HierCC V1	CD630_34120(uvrB)	excinuclease ABC subunit B
+cgMLST V1 + HierCC V1	CD630_34130(-)	type I phosphodiesterase/nucleotide pyrophosphatase
+cgMLST V1 + HierCC V1	CD630_34140(ugpB)	ABC transporter substrate-binding protein
+cgMLST V1 + HierCC V1	CD630_34150(ugpE)	"ABC-type transport system, sugar-family permease"
+cgMLST V1 + HierCC V1	CD630_34160(ugpA)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_34170(ugpC)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_34180(sirC)	siroheme synthase
+cgMLST V1 + HierCC V1	CD630_34190(hemB)	delta-aminolevulinic acid dehydratase
+cgMLST V1 + HierCC V1	CD630_34200(cobA/hemD)	bifunctional uroporphyrinogen III methyltransferase/uroporphyrinogen III methyltransferase
+cgMLST V1 + HierCC V1	CD630_34210(hemC)	hydroxymethylbilane synthase
+cgMLST V1 + HierCC V1	CD630_34220(cbiK)	sirohydrochlorin cobaltochelatase
+cgMLST V1 + HierCC V1	CD630_34230(cbiJ)	precorrin-6x reductase
+cgMLST V1 + HierCC V1	CD630_34240(cbiH)	precorrin-3B C(17)-methyltransferase
+cgMLST V1 + HierCC V1	CD630_34250(cbiG)	cobalamin biosynthesis protein CbiG
+cgMLST V1 + HierCC V1	CD630_34260(cbiF)	cobalt-precorrin-4 C(11)-methyltransferase
+cgMLST V1 + HierCC V1	CD630_34270(cbiT)	cobalt-precorrin-6Y C(15)-methyltransferase
+cgMLST V1 + HierCC V1	CD630_34280(cbiE)	"precorrin-6y C5,15-methyltransferase (decarboxylating), CbiE subunit"
+cgMLST V1 + HierCC V1	CD630_34290(cbiD)	cobalt-precorrin-5B (C(1))-methyltransferase
+cgMLST V1 + HierCC V1	CD630_34300(cbiC)	precorrin-8X methylmutase
+cgMLST V1 + HierCC V1	CD630_34310(pduX)	GHMP kinase
+cgMLST V1 + HierCC V1	CD630_34320(cobD)	threonine-phosphate decarboxylase
+cgMLST V1 + HierCC V1	CD630_34330(cbiB)	adenosylcobinamide-phosphate synthase
+cgMLST V1 + HierCC V1	CD630_34340(cobB)	"cobyrinic acid a,c-diamide synthase"
+cgMLST V1 + HierCC V1	CD630_34350(cobQ)	cobyric acid synthase CobQ
+cgMLST V1 + HierCC V1	CD630_34360(cobC)	histidine phosphatase
+cgMLST V1 + HierCC V1	CD630_34370(cobS)	adenosylcobinamide-GDP ribazoletransferase
+cgMLST V1 + HierCC V1	CD630_34380(cobU)	adenosylcobinamide kinase/adenosylcobinamide phosphate guanyltransferase
+cgMLST V1 + HierCC V1	CD630_34390(cobT)	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_34391(-)	evolved beta-galactosidase beta-subunit
+cgMLST V1 + HierCC V1	CD630_34392(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_34400(-)	aldose 1-epimerase
+cgMLST V1 + HierCC V1	CD630_34410(patB)	aminotransferase
+cgMLST V1 + HierCC V1	CD630_34420(pepP)	peptidase M24
+cgMLST V1 + HierCC V1	CD630_34430(celB)	PTS lactose transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_34440(celA)	PTS sugar transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_34450(celC)	PTS lactose transporter subunit IIA
+cgMLST V1 + HierCC V1	CD630_34460(-)	peptidase M42
+cgMLST V1 + HierCC V1	CD630_34480(gatY-kbaY)	fructose-bisphosphate aldolase
+cgMLST V1 + HierCC V1	CD630_34490(agaS)	tagatose-6-phosphate ketose
+cgMLST V1 + HierCC V1	CD630_34500(mviM)	virulence factor MviM
+cgMLST V1 + HierCC V1	CD630_34510(lacC)	1-phosphofructokinase
+cgMLST V1 + HierCC V1	CD630_34520(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_34530(nagA)	N-acetylglucosamine-6-phosphate deacetylase
+cgMLST V1 + HierCC V1	CD630_34550(prc)	peptidase S41
+cgMLST V1 + HierCC V1	CD630_34560(-)	5-formyltetrahydrofolate cyclo-ligase
+cgMLST V1 + HierCC V1	CD630_34570(-)	putative exported protein
+cgMLST V1 + HierCC V1	CD630_34580(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_34590(tktA)	transketolase
+cgMLST V1 + HierCC V1	CD630_34600(tktA)	transketolase
+cgMLST V1 + HierCC V1	CD630_34610(mazF)	mRNA interferase PemK
+cgMLST V1 + HierCC V1	CD630_34620(ndoAI)	antitoxin
+cgMLST V1 + HierCC V1	CD630_34630(alr2)	alanine racemase
+cgMLST V1 + HierCC V1	CD630_34640(-)	ahpC/TSA family protein
+cgMLST V1 + HierCC V1	CD630_34650(-)	CBS domain-containing protein
+cgMLST V1 + HierCC V1	CD630_34660(acpS)	holo-ACP synthase
+cgMLST V1 + HierCC V1	CD630_34670(atpC)	"ATP synthase F1, epsilon subunit"
+cgMLST V1 + HierCC V1	CD630_34680(atpD)	ATP synthase subunit beta
+cgMLST V1 + HierCC V1	CD630_34690(atpG)	F0F1 ATP synthase subunit gamma
+cgMLST V1 + HierCC V1	CD630_34700(atpA)	ATP synthase subunit alpha
+cgMLST V1 + HierCC V1	CD630_34710(atpH)	ATP synthase subunit delta
+cgMLST V1 + HierCC V1	CD630_34720(atpF)	ATP synthase subunit B
+cgMLST V1 + HierCC V1	CD630_34730(atpE)	ATP synthase subunit C
+cgMLST V1 + HierCC V1	CD630_34740(atpB)	"ATP synthase F0, A subunit"
+cgMLST V1 + HierCC V1	CD630_34750(atpI)	ATP synthase I chain family protein
+cgMLST V1 + HierCC V1	CD630_34760(atpZ)	ATP synthase
+cgMLST V1 + HierCC V1	CD630_34770(comEB)	dCMP deaminase
+cgMLST V1 + HierCC V1	CD630_34780(xdhC)	molybdenum hydroxylase
+cgMLST V1 + HierCC V1	CD630_34790(upp)	uracil phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_34800(rpiB2)	ribose-5-phosphate isomerase
+cgMLST V1 + HierCC V1	CD630_34810(-)	protein-tyrosine-phosphatase
+cgMLST V1 + HierCC V1	CD630_34820(tsaC)	RNA-binding protein
+cgMLST V1 + HierCC V1	CD630_34830(zupT)	zinc permease
+cgMLST V1 + HierCC V1	CD630_34840(prfA)	peptide chain release factor 1
+cgMLST V1 + HierCC V1	CD630_34850(hemK)	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_34860(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_34861(rpmE)	50S ribosomal protein L31
+cgMLST V1 + HierCC V1	CD630_34870(rho)	transcription termination factor Rho
+cgMLST V1 + HierCC V1	CD630_34880(gtaB)	UTP--glucose-1-phosphate uridylyltransferase
+cgMLST V1 + HierCC V1	CD630_34890(pepF)	oligoendopeptidase F
+cgMLST V1 + HierCC V1	CD630_34900(spoIIE)	stage II sporulation protein E
+cgMLST V1 + HierCC V1	CD630_34910(ppx-gppA)	exopolyphosphatase
+cgMLST V1 + HierCC V1	CD630_34920(-)	septation ring formation regulator EzrA
+cgMLST V1 + HierCC V1	CD630_34930(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_34940(-)	sporulation protein YabP
+cgMLST V1 + HierCC V1	CD630_34950(-)	S4 domain protein
+cgMLST V1 + HierCC V1	CD630_34960(hbs)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_34970(yabN)	nucleotide pyrophosphohydrolase
+cgMLST V1 + HierCC V1	CD630_34980(spoVB)	stage V sporulation protein B
+cgMLST V1 + HierCC V1	CD630_34990(spoVT)	stage V sporulation protein T
+cgMLST V1 + HierCC V1	CD630_35000(prsA)	SurA domain-containing protein
+cgMLST V1 + HierCC V1	CD630_35010(mfd)	transcription-repair coupling factor
+cgMLST V1 + HierCC V1	CD630_35020(pth)	peptidyl-tRNA hydrolase
+cgMLST V1 + HierCC V1	CD630_35030(pilD)	peptidase
+cgMLST V1 + HierCC V1	CD630_35040(pilD)	type 4 prepilin peptidase 1
+cgMLST V1 + HierCC V1	CD630_35050(pilT)	twitching motility protein PilT
+cgMLST V1 + HierCC V1	CD630_35060(-)	exported protein
+cgMLST V1 + HierCC V1	CD630_35070(-)	prepilin-type cleavage/methylation protein
+cgMLST V1 + HierCC V1	CD630_35080(pilA)	type IV pilin
+cgMLST V1 + HierCC V1	CD630_35090(-)	pilus assembly protein
+cgMLST V1 + HierCC V1	CD630_35100(pilM)	membrane protein
+cgMLST V1 + HierCC V1	CD630_35110(pilC)	pilus assembly protein
+cgMLST V1 + HierCC V1	CD630_35120(pilB)	"type IV pilus transporter system,ATP-binding"
+cgMLST V1 + HierCC V1	CD630_35140(prs)	ribose-phosphate pyrophosphokinase
+cgMLST V1 + HierCC V1	CD630_35150(glmU)	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+cgMLST V1 + HierCC V1	CD630_35160(spoVG)	septation protein SpoVG
+cgMLST V1 + HierCC V1	CD630_35170(purR)	pur operon repressor
+cgMLST V1 + HierCC V1	CD630_35180(murC)	UDP-N-acetylmuramate--L-alanine ligase
+cgMLST V1 + HierCC V1	CD630_35190(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35200(-)	cation transporter
+cgMLST V1 + HierCC V1	CD630_35210(pepT)	M42 glutamyl aminopeptidase
+cgMLST V1 + HierCC V1	CD630_35220(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35230(ksgA)	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase
+cgMLST V1 + HierCC V1	CD630_35240(rnmV)	ribonuclease M5
+cgMLST V1 + HierCC V1	CD630_35300(afuC)	phosphonate ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_35310(-)	phosphatase
+cgMLST V1 + HierCC V1	CD630_35390(tatD)	deoxyribonuclease
+cgMLST V1 + HierCC V1	CD630_35400(metG)	methionine--tRNA ligase
+cgMLST V1 + HierCC V1	CD630_35410(spmB)	spore maturation protein B
+cgMLST V1 + HierCC V1	CD630_35420(spmA)	spore maturation protein A
+cgMLST V1 + HierCC V1	CD630_35430(pncB)	nicotinate phosphoribosyltransferase
+cgMLST V1 + HierCC V1	CD630_35440(lrp)	AsnC family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_35450(pcnB)	HDIG domain-containing protein
+cgMLST V1 + HierCC V1	CD630_35460(rsmI)	rRNA (cytidine-2'-O-)-methyltransferase
+cgMLST V1 + HierCC V1	CD630_35470(yfiC)	methyltransferase
+cgMLST V1 + HierCC V1	CD630_35480(-)	stage 0 sporulation protein
+cgMLST V1 + HierCC V1	CD630_35490(holB)	DNA polymerase III subunit delta'
+cgMLST V1 + HierCC V1	CD630_35500(tmk)	thymidylate kinase
+cgMLST V1 + HierCC V1	CD630_35510(speA)	amino acid decarboxylase
+cgMLST V1 + HierCC V1	CD630_35511(-)	DUF378 domain-containing protein
+cgMLST V1 + HierCC V1	CD630_35512(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35520(lysS)	Lysyl-tRNA synthetase (Lysine--tRNA ligase) (LysRS)
+cgMLST V1 + HierCC V1	CD630_35530(greA)	transcription elongation factor GreA
+cgMLST V1 + HierCC V1	CD630_35540(dusB)	TIM barrel oxidoreductase NifR3
+cgMLST V1 + HierCC V1	CD630_35550(coaX)	type III pantothenate kinase
+cgMLST V1 + HierCC V1	CD630_35560(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_35580(birA)	bifunctional biotin--[acetyl-CoA-carboxylase] synthetase/biotin operon repressor
+cgMLST V1 + HierCC V1	CD630_35590(ftsH2)	cell division protein FtsH
+cgMLST V1 + HierCC V1	CD630_35600(tilS)	tRNA(Ile)-lysidine synthase
+cgMLST V1 + HierCC V1	CD630_35610(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35620(murI)	glutamate racemase
+cgMLST V1 + HierCC V1	CD630_35630(cwlJ)	spore cortex-lytic protein
+cgMLST V1 + HierCC V1	CD630_35640(spoIIR)	stage II sporulation protein R
+cgMLST V1 + HierCC V1	CD630_35650(-)	GntR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_35660(ispE)	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+cgMLST V1 + HierCC V1	CD630_35670(-)	lysM domain protein
+cgMLST V1 + HierCC V1	CD630_35680(-)	Veg protein
+cgMLST V1 + HierCC V1	CD630_35690(yabG)	peptidase U57
+cgMLST V1 + HierCC V1	CD630_35700(dpeP)	membrane dipeptidase
+cgMLST V1 + HierCC V1	CD630_35701(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35710(-)	SEC-C motif family protein
+cgMLST V1 + HierCC V1	CD630_35720(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35760(-)	transporter
+cgMLST V1 + HierCC V1	CD630_35770(mdeA)	methionine gamma-lyase
+cgMLST V1 + HierCC V1	CD630_35780(-)	resolvase
+cgMLST V1 + HierCC V1	CD630_35790(-)	protein of unknown function DUF1413
+cgMLST V1 + HierCC V1	CD630_35800(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_35810(rlmI)	SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CD630_35820(rluD)	RNA pseudouridine synthase
+cgMLST V1 + HierCC V1	CD630_35830(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_35840(-)	ABC transporter permease
+cgMLST V1 + HierCC V1	CD630_35850(-)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_35860(-)	two-component sensor histidine kinase
+cgMLST V1 + HierCC V1	CD630_35870(-)	DNA-binding response regulator
+cgMLST V1 + HierCC V1	CD630_35890(carA)	carbamoyl phosphate synthase small subunit
+cgMLST V1 + HierCC V1	CD630_35910(carA)	carbamoyl phosphate synthase small subunit
+cgMLST V1 + HierCC V1	CD630_35920(pyrF)	orotidine 5'-phosphate decarboxylase
+cgMLST V1 + HierCC V1	CD630_35940(-)	nitroreductase
+cgMLST V1 + HierCC V1	CD630_35950(ampS)	aminopeptidase
+cgMLST V1 + HierCC V1	CD630_35960(metH)	putative 5-methyltetrahydrofolate--homocysteine methyltransferase
+cgMLST V1 + HierCC V1	CD630_35970(-)	vitamin B12 dependent methionine synthase activation domain protein
+cgMLST V1 + HierCC V1	CD630_35980(luxS)	S-ribosylhomocysteine lyase
+cgMLST V1 + HierCC V1	CD630_36010(vanY)	D-alanyl-D-alanine carboxypeptidase
+cgMLST V1 + HierCC V1	CD630_36020(-)	tRNA 2-thiocytidine biosynthesis protein TtcA
+cgMLST V1 + HierCC V1	CD630_36030(-)	metallophosphatase
+cgMLST V1 + HierCC V1	CD630_36040(-)	epimerase
+cgMLST V1 + HierCC V1	CD630_36050(gph)	phosphoglycolate phosphatase
+cgMLST V1 + HierCC V1	CD630_36051(fer)	ferredoxin
+cgMLST V1 + HierCC V1	CD630_36060(pyrC)	amidohydrolase
+cgMLST V1 + HierCC V1	CD630_36070(-)	ABC superfamily ATP-binding cassette transporter permease
+cgMLST V1 + HierCC V1	CD630_36080(sufC)	ABC transporter ATP-binding protein
+cgMLST V1 + HierCC V1	CD630_36090(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_36100(gloA)	glyoxalase
+cgMLST V1 + HierCC V1	CD630_36130(-)	staygreen family protein
+cgMLST V1 + HierCC V1	CD630_36140(-)	Uncharacterized conserved protein
+cgMLST V1 + HierCC V1	CD630_36150(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_36170(-)	Zn-dependent protease
+cgMLST V1 + HierCC V1	CD630_36190(yjaB)	acetyltransferase
+cgMLST V1 + HierCC V1	CD630_36200(-)	ymaF family protein
+cgMLST V1 + HierCC V1	CD630_36210(-)	pentapeptide repeats family protein
+cgMLST V1 + HierCC V1	CD630_36220(phnA)	phnA family protein
+cgMLST V1 + HierCC V1	CD630_36260(eda)	ketohydroxyglutarate aldolase
+cgMLST V1 + HierCC V1	CD630_36280(kdsD)	carbohydrate isomerase
+cgMLST V1 + HierCC V1	CD630_36290(ulaA)	PTS ascorbate transporter subunit IIC
+cgMLST V1 + HierCC V1	CD630_36300(ulaB)	PTS ascorbate transporter subunit IIB
+cgMLST V1 + HierCC V1	CD630_36310(-)	"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 2"
+cgMLST V1 + HierCC V1	CD630_36350(-)	acetyl-CoA hydrolase
+cgMLST V1 + HierCC V1	CD630_36360(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_36370(-)	FMN reductase
+cgMLST V1 + HierCC V1	CD630_36380(-)	LVIVD repeat family protein
+cgMLST V1 + HierCC V1	CD630_36390(gltC)	LysR family transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_36400(kdgK)	carbohydrate kinase
+cgMLST V1 + HierCC V1	CD630_36410(-)	2-dehydro-3-deoxy-phosphogluconate aldolase
+cgMLST V1 + HierCC V1	CD630_36420(selA)	L-seryl-tRNA selenium transferase
+cgMLST V1 + HierCC V1	CD630_36430(pyrC)	dihydroorotase
+cgMLST V1 + HierCC V1	CD630_36490(rlmH)	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+cgMLST V1 + HierCC V1	CD630_36500(celB)	diguanylate phosphodiesterase
+cgMLST V1 + HierCC V1	CD630_36510(-)	MBL fold metallo-hydrolase
+cgMLST V1 + HierCC V1	CD630_36520(-)	peptidase M1
+cgMLST V1 + HierCC V1	CD630_36530(dnaD)	DNA replication protein DnaD
+cgMLST V1 + HierCC V1	CD630_36540(dnaC)	DNA replication protein DnaC
+cgMLST V1 + HierCC V1	CD630_36550(purA)	adenylosuccinate synthetase
+cgMLST V1 + HierCC V1	CD630_36560(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CD630_36570(dnaB)	replicative DNA helicase
+cgMLST V1 + HierCC V1	CD630_36580(rplI)	50S ribosomal protein L9
+cgMLST V1 + HierCC V1	CD630_36590(-)	phosphoesterase
+cgMLST V1 + HierCC V1	CD630_36600(-)	membrane protein
+cgMLST V1 + HierCC V1	CD630_36610(-)	mazG-like family protein
+cgMLST V1 + HierCC V1	CD630_36611(rpsR)	30S ribosomal protein S18
+cgMLST V1 + HierCC V1	CD630_36620(ssb)	single-strand DNA-binding protein
+cgMLST V1 + HierCC V1	CD630_36630(rpsF)	30S ribosomal protein S6
+cgMLST V1 + HierCC V1	CD630_36640(-)	aminotransferase
+cgMLST V1 + HierCC V1	CD630_36650(-)	putative protein DUF951
+cgMLST V1 + HierCC V1	CD630_36660(-)	Protein of uncharacterised function (DUF3343)
+cgMLST V1 + HierCC V1	CD630_36670(-)	sirA-like family protein
+cgMLST V1 + HierCC V1	CD630_36680(-)	transcriptional regulator
+cgMLST V1 + HierCC V1	CD630_36690(-)	sporulation and spore germination family protein
+cgMLST V1 + HierCC V1	CD630_36700(-)	aminotransferase class-V family protein
+cgMLST V1 + HierCC V1	CD630_36710(spo0J)	chromosome partitioning protein ParB
+cgMLST V1 + HierCC V1	CD630_36720(soj)	sporulation initiation inhibitor Soj
+cgMLST V1 + HierCC V1	CD630_36730(parB)	nucleoid occlusion protein
+cgMLST V1 + HierCC V1	CD630_36750(mnmG)	tRNA uridine(34) 5-carboxymethylaminomethyl synthesis enzyme MnmG
+cgMLST V1 + HierCC V1	CD630_36760(mnmE)	tRNA uridine(34) 5-carboxymethylaminomethyl synthesis GTPase MnmE
+cgMLST V1 + HierCC V1	CD630_36770(jag)	SpoIIIJ-associated RNA/ssDNA-binding protein Jag
+cgMLST V1 + HierCC V1	CD630_36780(oxaA1)	sporulation protein
+cgMLST V1 + HierCC V1	CD630_36781(-)	membrane protein insertion efficiency factor YidD
+cgMLST V1 + HierCC V1	CD630_36790(rnpA)	ribonuclease P protein component
+cgMLST V1 + HierCC V1	CD630_36800(rpmH)	50S ribosomal protein L34
+cgMLST V1 + HierCC V1	CD630DERM_RS02520(-)	eamA-like transporter family protein
+cgMLST V1 + HierCC V1	CDIF100002_00882(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF100005_03509(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF1296T_00082(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF1296T_00577(-)	SAM-dependent methyltransferase
+cgMLST V1 + HierCC V1	CDIF1296T_00685(abgT)	aminobenzoyl-glutamate transporter
+cgMLST V1 + HierCC V1	CDIF1296T_01024(oppF)	ABC transporter family protein
+cgMLST V1 + HierCC V1	CDIF1296T_01382(nrnA)	putative rna-binding protein
+cgMLST V1 + HierCC V1	CDIF1296T_01454(-)	MerR family transcriptional regulator
+cgMLST V1 + HierCC V1	CDIF1296T_01507(-)	Fis family transcriptional regulator
+cgMLST V1 + HierCC V1	CDIF1296T_01684(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF1296T_01833(-)	beta-aspartate methyltransferase
+cgMLST V1 + HierCC V1	CDIF1296T_01835(-)	glycine reductase
+cgMLST V1 + HierCC V1	CDIF1296T_01941(mdtG)	MFS transporter
+cgMLST V1 + HierCC V1	CDIF1296T_01942(mdtG)	permease
+cgMLST V1 + HierCC V1	CDIF1296T_02217(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CDIF1296T_02226(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CDIF1296T_02287(-)	N-acetylmuramoyl-L-alanine amidase
+cgMLST V1 + HierCC V1	CDIF1296T_02296(-)	mannosyl-glycoendo-beta-N-acetylglucosaminidase
+cgMLST V1 + HierCC V1	CDIF1296T_02463(-)	glycine reductase complex protein B subunit gamma
+cgMLST V1 + HierCC V1	CDIF1296T_02465(-)	"glycine reductase, selenoprotein B"
+cgMLST V1 + HierCC V1	CDIF1296T_02466(-)	glycine/betaine reductase A
+cgMLST V1 + HierCC V1	CDIF1296T_02467(-)	glycine/betaine reductase A
+cgMLST V1 + HierCC V1	CDIF1296T_02689(-)	2-oxoglutarate translocator
+cgMLST V1 + HierCC V1	CDIF1296T_02996(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF1296T_03314(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF1296T_03353(prdB)	proline reductase
+cgMLST V1 + HierCC V1	CDIF1296T_03378(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF1296T_03605(-)	putative membrane protein
+cgMLST V1 + HierCC V1	CDIF1296T_03738(-)	MATE family efflux transporter
+cgMLST V1 + HierCC V1	CDIF1296T_03805(gidB)	16S rRNA methyltransferase G
+cgMLST V1 + HierCC V1	CDIF29020_00967(-)	hypothetical protein
+cgMLST V1 + HierCC V1	CDIF29020_03528(-)	hypothetical protein
+cgMLST V1 + HierCC V1	PCZ31_0213(-)	hypothetical protein
+cgMLST V1 + HierCC V1	PCZ31_2211(-)	hypothetical protein
+cgMLST V1 + HierCC V1	UAB_RS02000000220350(nrnA)	DHH family protein
